@@ -40,4 +40,18 @@ python ./attack/NN_attack.py --yaml_path ../config/attack/NN/CIFAR100.yaml --dat
 	Selected attacks:
 ![Selected attacks](https://user-images.githubusercontent.com/124696836/217288040-c38bb11e-6b8a-48ae-bc1b-1c7639e886c3.png)
 
+	Evaluation Framework:
+    MIBench is a comprehensive benchmark for comparing different MI attacks, which consists not only the evaluation metric module, but also the evaluation scenario module.
+	Part I: Evaluation Scenarios
+In this work, we have designed and implemented the MIBench benchmark with 84 evaluation scenarios for each dataset. In total, we have used our benchmark to fairly and systematically compare 13 state-of-the-art MI attack algorithms across 588 evaluation scenarios, and these evaluation scenarios cover 7 widely used datasets and 7 representative types of models.
+
+(a) Evaluation Scenarios of CIFAR100.
+![Evaluation Scenarios of CIFAR100_V1](https://user-images.githubusercontent.com/124696836/217288244-4e5e3a64-6649-457d-ae69-a8c8ad566322.png)
+
+
+(b) Evaluation Scenarios of CIFAR10.
+![Evaluation Scenarios of CIFAR10](https://user-images.githubusercontent.com/124696836/217288349-85c55eed-ae51-4721-a063-618b45a4eef4.png)
+
+(c) Evaluation Scenarios of CH_MNIST.
+![Evaluation Scenarios of CH_MNIST](https://user-images.githubusercontent.com/124696836/217288415-6eba7f41-7daf-4d9e-8932-8b1a76a3d057.png)
 
