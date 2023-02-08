@@ -5,18 +5,18 @@ MIBench is a comprehensive benchmark for comparing different MI attacks, which c
 false negative rate (FNR), membership advantage (MA)). We have identified three principles for the proposed “comparing different MI attacks” methodology, and we have designed and implemented the MIBench benchmark with 84 evaluation scenarios for each dataset. In total, we have used our benchmark to fairly and systematically compare 13 state-of-the-art MI attack algorithms across 588 evaluation scenarios, and these evaluation scenarios cover 7 widely used datasets and 7 representative types of models.
 
 MI attacks:
-NN_attack
-Loss-Threshold
-Lable-only
-Top3-NN attack
-Top1-Threshold
-BlindMI-Diff 
-Top2+True
-Privacy Risk Scores
-Shapley Values
-Positive Predictive Value 
-Calibrated Score
-Distillation-based Thre.
+NN_attack,
+Loss-Threshold,
+Lable-only,
+Top3-NN attack,
+Top1-Threshold,
+BlindMI-Diff,
+Top2+True,
+Privacy Risk Scores,
+Shapley Values,
+Positive Predictive Value ,
+Calibrated Score,
+Distillation-based Thre.,
 Likelihood ratio attack
 
 Datasets: CH_MNIST, CIFAR10, CIFAR100, ImageNet, Location30, Purchase100, ImageNet, Texas100
