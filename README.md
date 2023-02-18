@@ -85,29 +85,31 @@ RQ1: Effect of data Distributions
 ES01: CIFAR100_Normal + 2.893 + 0.085 + 20%
 ES29: CIFAR100_Uniform + 2.893 + 0.085 + 20% 
 ES57: CIFAR100_Bernoulli + 2.893 +0.085 + 20%
-           
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![CIFAR100_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/219857423-023f397c-8b77-4406-8f17-344609c83721.png)
+   
+
 RQ2: Effect of Distance between members and nonmembers
 ES02: CIFAR100_Normal + 2.893 + 0.085 + 40% 
 ES10: CIFAR100_Normal + 3.813 + 0.085 + 40%
 ES22: CIFAR100_Normal + 4.325 + 0.085 + 40%
-                    
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![CIFAR100_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/219857440-b9a22ebc-8f68-48b8-af90-57f390781d13.png)
+
+
 
 RQ3: Effect of Differential Distances between two datasets
 ES03: CIFAR100_Normal + 2.893 + 0.085 + 45%
 ES05: CIFAR100_Normal + 2.893 + 0.119 + 45%
-ES07: CIFAR100_Normal + 2.893 + 0.157 + 45% 
-                    
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+ES07: CIFAR100_Normal + 2.893 + 0.157 + 45%                     
+![CIFAR100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/219857466-c0857043-b7d5-4bfb-a1a2-709d26b5b7a1.png)
+
 
 RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack 
 ES37: CIFAR100_Uniform + 3.813 + 0.085 + 20%
 ES38: CIFAR100_Uniform + 3.813 + 0.085 + 40%
 ES39: CIFAR100_Uniform + 3.813 + 0.085 + 45% 
 ES40: CIFAR100_Uniform + 3.813 + 0.085 + 49% 
-           
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![CIFAR100_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/219857475-56cccc31-1e56-4f75-8f6a-f60cdf096396.png)
+
 
 (2) CIFAR10:
 RQ1: Effect of data Distributions
@@ -288,4 +290,6 @@ ES71: Texas100_Bernoulli + 0.641 + 0.073 + 10%
 ES72: Texas100_Bernoulli + 0.641 + 0.073 + 12%
            
 (a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+
+
 
