@@ -1,0 +1,1 @@
+fpr: 0.57 fnr: 0.035 precision: 0.6286644951140065 recall: 0.965 accuracy: 0.6975 f1_score: 0.7613412228796844ma: 0.395

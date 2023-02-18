@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zhaoqy@124.16.70.132:22013 key" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="dmpl_yuexh@b4.dothings.top:14040 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yuexh/myproject/EvaluatingDPML-master" local="$PROJECT_DIR$" web="http://" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yuexh@b4.dothings.top:14040 key (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yuexh/myproject/EvaluatingDPML-master" local="$PROJECT_DIR$" web="http://" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhaoqy@124.16.70.132:22013 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhaoqy@124.16.70.132:22013 key (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhaoqy@124.16.70.132:22013 key (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhaoqy@124.16.70.255:22013">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhaoqy/yueproject/dpml" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhaoqy@124.16.70.255:22013 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhaoqy/yueproject/dpml" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhaoqy_mi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

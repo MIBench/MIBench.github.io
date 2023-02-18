@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d2075cbf-cc49-4ad4-9afa-74db861fa3a9" name="zhaoqy_mi">
+        <fileTransfer rootFolder="/home/zhaoqy/yueproject/dpml" accessType="SFTP" host="124.16.70.255" port="22013" sshConfigId="4723c904-bc23-4491-94ce-1c8ff347bd85" sshConfig="zhaoqy@124.16.70.255:22013 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
