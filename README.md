@@ -116,30 +116,34 @@ RQ1: Effect of data Distributions
 ES13: CIFAR10_Normal + 2.501 + 0.213 + 20%
 ES41: CIFAR10_Uniform + 2.501 + 0.213 + 20%
 ES69: CIFAR10_Bernoulli + 2.501 + 0.213 + 20%
-           
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+        
+![CIFAR10_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/219933681-e0ab7da6-63e6-4d77-90c8-8bfa4e69c67c.png)
+ 
 
 RQ2: Effect of Distance between members and nonmembers
 ES02: CIFAR10_Normal + 1.908 + 0.155 + 40%
 ES10: CIFAR10_Normal + 2.501 + 0.155 + 40%
 ES22: CIFAR10_Normal + 3.472 + 0.155 + 40%
                     
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![CIFAR10_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/219933690-c9b04621-9d44-43c5-8dbe-3e6474dcd781.png)
+
 
 RQ3: Effect of Differential Distances between two datasets
 ES51: CIFAR10_Uniform + 3.472 + 0.155 + 45%
 ES53: CIFAR10_Uniform + 3.472 + 0.213 + 45% 
 ES55: CIFAR10_Uniform + 3.472 + 0.291 + 45% 
                     
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![CIFAR10_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/219933691-86b1ae51-f4b4-4c96-8428-fa8c1e83b5fd.png
+
 
 RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack 
 ES57: CIFAR10_Bernoulli + 1.908 +0.155 + 20% 
 ES58: CIFAR10_Bernoulli + 1.908 + 0.155 + 40%
 ES59: CIFAR10_Bernoulli + 1.908 + 0.155 + 45%
 ES60: CIFAR10_Bernoulli + 1.908 + 0.155 + 49% 
-           
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+        
+![CIFAR10_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/219933699-f10df496-f69b-47a2-8fa8-d31f4c0a2cfb.png)
+   
 
 (3) CH_MNIST:
 RQ1: Effect of data Distributions
