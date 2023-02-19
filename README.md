@@ -133,7 +133,7 @@ ES51: CIFAR10_Uniform + 3.472 + 0.155 + 45%
 ES53: CIFAR10_Uniform + 3.472 + 0.213 + 45% 
 ES55: CIFAR10_Uniform + 3.472 + 0.291 + 45% 
                     
-![CIFAR10_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/219933691-86b1ae51-f4b4-4c96-8428-fa8c1e83b5fd.png
+![CIFAR10_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/219933691-86b1ae51-f4b4-4c96-8428-fa8c1e83b5fd.png)
 
 
 RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack 
