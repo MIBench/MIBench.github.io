@@ -150,22 +150,24 @@ RQ1: Effect of data Distributions
 ES21: CH_MNIST_Normal + 1.720 +0.083 + 20%
 ES49 : CH_MNIST_Uniform + 1.720 +0.083 + 20%
 ES77: CH_MNIST_Bernoulli + 1.720 +0.083 + 20%
-           
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![CH_MNIST_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220026897-2b7bc960-dfeb-4eee-bbe4-4d1c995aa7b8.png)
+
 
 RQ2: Effect of Distance between members and nonmembers
 ES04: CH_MNIST_Uniform + 0.954 + 0.108 + 40%
 ES14: CH_MNIST_Uniform + 1.355 + 0.108 + 40%
 ES24: CH_MNIST_Uniform + 1.720 + 0.108 + 40%
                     
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![CH_MNIST_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220026979-f6893d18-4fb7-4cbb-b1dc-7e33fe4b5fa0.png)
+
 
 RQ3: Effect of Differential Distances between two datasets
 ES03: CH_MNIST_Normal + 0.954 + 0.083 + 45%
 ES05: CH_MNIST_Normal + 0.954 + 0.108 + 45%
 ES07: CH_MNIST_Normal + 0.954 + 0.133 + 45%
-                    
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![CH_MNIST_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220027031-de965164-7907-4ff6-8f4d-78dbdbc0409e.png)
+          
+
 
 RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack 
 ES73: CH_MNIST_Bernoulli + 1.355 + 0.133 + 20%
@@ -173,29 +175,28 @@ ES74: CH_MNIST_Bernoulli + 1.355 + 0.133 + 40%
 ES75: CH_MNIST_Bernoulli + 1.355 + 0.133 + 45%
 ES76: CH_MNIST_Bernoulli + 1.355 + 0.133 + 49%
            
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![CH_MNIST_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220027085-3a6964e6-edb5-4d55-b919-1a909f3c300c.png)
 
 (4) ImageNet:
 RQ1: Effect of data Distributions
 ES02: ImageNet_Normal + 0.934 + 0.046 + 40%
 ES30: ImageNet_Uniform + 0.934 + 0.046 + 40%
 ES58: ImageNet_Bernoulli + 0.934 + 0.046 + 40%
-           
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![ImageNet_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220027209-2ac37e6d-4068-4055-a7db-ca5c35de9201.png)
+
 
 RQ2: Effect of Distance between members and nonmembers
 ES34: ImageNet_Uniform + 0.934 + 0.08 + 49% 
 ES44: ImageNet_Uniform + 1.130 + 0.08 + 49%
 ES54: ImageNet_Uniform + 1.388 + 0.08 + 49%
-                    
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![ImageNet_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220027299-2748512f-2418-4a75-969f-422d39ee38d4.png)
+
 
 RQ3: Effect of Differential Distances between two datasets
 ES79: ImageNet_Bernoulli + 1.388 + 0.046 + 45% 
 ES81: ImageNet_Bernoulli + 1.388 + 0.080 + 45%
 ES83: ImageNet_Bernoulli + 1.388 + 0.145 + 45%
-                    
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![ImageNet_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220027343-97532c83-2c71-4992-b3f8-dd9fc1789ba7.png)
 
 RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack 
 ES13: ImageNet_Normal + 1.130 + 0.080 + 20%
@@ -203,7 +204,7 @@ ES14: ImageNet_Normal + 1.130 + 0.080 + 40%
 ES15: ImageNet_Normal + 1.130 + 0.080 + 45%
 ES16: ImageNet_Normal + 1.130 + 0.080 + 49%
            
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![ImageNet_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220027421-19592d0a-beea-4dba-9eb8-45009c09dc1d.png)
 
 
 (5) Location30:
