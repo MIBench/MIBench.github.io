@@ -244,21 +244,21 @@ ES01: Purchase100_Normal + 0.550 + 0.087 + 2%
 ES29: Purchase100_Uniform + 0.550 + 0.087 + 2%
 ES57: Purchase100_Bernoulli + 0.550 + 0.087 + 2%
            
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![Purchase100_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220282330-bde5d136-3dea-4ef6-9f08-833e58816532.png)
 
 RQ2: Effect of Distance between members and nonmembers
 ES04: Purchase100_Normal + 0.550 + 0.110 + 4%
 ES14: Purchase100_Normal + 0.625 + 0.110 + 4%
 ES24: Purchase100_Normal + 0.729 + 0.110 + 4%
-                    
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![Purchase100_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220282362-9ae055f3-8e3a-4741-9781-683199aa5618.png)
 
 RQ3: Effect of Differential Distances between two datasets
-ES51: Purchase100_Uniform + 0.729 + 0.087 + 10%
-ES53: Purchase100_Uniform + 0.729 + 0.110 + 10%
-ES55: Purchase100_Uniform + 0.729 + 0.156 + 10%
+ES65: Purchase100_Bernoulli + 0.625 + 0.087 + 2%
+ES66: Purchase100_Bernoulli + 0.625 + 0.087 + 4%
+ES67: Purchase100_Bernoulli + 0.625 + 0.087 + 10%
+ES68: Purchase100_Bernoulli + 0.625 + 0.087 + 12%
                     
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![Purchase100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220282410-f5573edf-cb65-4a37-8d75-351488c676c2.png)
 
 RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack
 ES69: Purchase100_Bernoulli + 0.625 + 0.110 + 2%
@@ -266,37 +266,36 @@ ES70: Purchase100_Bernoulli + 0.625 + 0.110 + 4%
 ES71: Purchase100_Bernoulli + 0.625 + 0.110 + 10%
 ES72: Purchase100_Bernoulli + 0.625 + 0.110 + 12%
            
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![Purchase100_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220282466-ee7ce129-b8e6-4705-9f52-cbe361e5a199.png)
 
 (7) Texas100:
 RQ1: Effect of data Distributions
 ES01: Texas100_Normal + 0.530 + 0.038 + 2%
 ES29: Texas100_Uniform + 0.530 + 0.038 + 2%
 ES57: Texas100_Bernoulli + 0.530 + 0.038 + 2%
-           
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
-
+        
+![Texas100_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220282556-caaea300-e406-4a46-bbb6-2eae9905fa23.png)
 RQ2: Effect of Distance between members and nonmembers
-ES04: Texas100_Normal + 0.530 + 0.073 + 4%
-ES14: Texas100_Normal + 0.641 + 0.073 + 4%
-ES24: Texas100_Normal + 0.734 + 0.073 + 4%
-                    
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+ES02: Texas100_Normal + 0.530 + 0.038 + 4%
+ES10: Texas100_Normal + 0.641 + 0.038 + 4%
+ES22: Texas100_Normal + 0.734 + 0.038 + 4%
+![Texas100_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220282619-c9f17da0-758c-4586-a8fa-7a2edba53f5d.png)
+                
 
 RQ3: Effect of Differential Distances between two datasets
 ES51: Texas100_Uniform + 0.734 + 0.038 + 10%
 ES53: Texas100_Uniform + 0.734 + 0.073 + 10%
 ES55: Texas100_Uniform + 0.734 + 0.107 + 10%
                     
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![Texas100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220282636-4da0db4a-5f2f-47c0-910c-a84b9619c703.png)
 
 RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack
-ES69: Texas100_Bernoulli + 0.641 + 0.073 + 2%
-ES70: Texas100_Bernoulli + 0.641 + 0.073 + 4%
-ES71: Texas100_Bernoulli + 0.641 + 0.073 + 10%
-ES72: Texas100_Bernoulli + 0.641 + 0.073 + 12%
+ES65: Texas100_Bernoulli + 0.641 + 0.038 + 2%
+ES66: Texas100_Bernoulli + 0.641 + 0.038 + 4%
+ES67: Texas100_Bernoulli + 0.641 + 0.038 + 10%
+ES68: Texas100_Bernoulli + 0.641 + 0.038 + 12%
            
-(a) precision         (b) recall           (c) f1-score          (d) FNR           (e) FPR           (f) MA
+![Texas100_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220282670-119c413a-6803-422e-9391-45eb2031d166.png)
 
 
 
