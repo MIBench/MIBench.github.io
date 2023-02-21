@@ -253,10 +253,10 @@ ES24: Purchase100_Normal + 0.729 + 0.110 + 4%
 ![Purchase100_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220282362-9ae055f3-8e3a-4741-9781-683199aa5618.png)
 
 RQ3: Effect of Differential Distances between two datasets
-ES65: Purchase100_Bernoulli + 0.625 + 0.087 + 2%
-ES66: Purchase100_Bernoulli + 0.625 + 0.087 + 4%
-ES67: Purchase100_Bernoulli + 0.625 + 0.087 + 10%
-ES68: Purchase100_Bernoulli + 0.625 + 0.087 + 12%
+ES51: Purchase100_Uniform + 0.729 + 0.087 + 10%
+ES53: Purchase100_Uniform + 0.729 + 0.110 + 10%
+ES55: Purchase100_Uniform + 0.729 + 0.156 + 10%
+
                     
 ![Purchase100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220282410-f5573edf-cb65-4a37-8d75-351488c676c2.png)
 
