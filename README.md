@@ -261,10 +261,10 @@ ES68: Purchase100_Bernoulli + 0.625 + 0.087 + 12%
 ![Purchase100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220282410-f5573edf-cb65-4a37-8d75-351488c676c2.png)
 
 RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack
-ES69: Purchase100_Bernoulli + 0.625 + 0.110 + 2%
-ES70: Purchase100_Bernoulli + 0.625 + 0.110 + 4%
-ES71: Purchase100_Bernoulli + 0.625 + 0.110 + 10%
-ES72: Purchase100_Bernoulli + 0.625 + 0.110 + 12%
+ES65: Purchase100_Bernoulli + 0.625 + 0.087 + 2%
+ES66: Purchase100_Bernoulli + 0.625 + 0.087 + 4%
+ES67: Purchase100_Bernoulli + 0.625 + 0.087 + 10%
+ES68: Purchase100_Bernoulli + 0.625 + 0.087 + 12%
            
 ![Purchase100_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220282466-ee7ce129-b8e6-4705-9f52-cbe361e5a199.png)
 
