@@ -5,35 +5,35 @@ MIBench is a comprehensive benchmark for comparing different MI attacks, which c
 
 MI attacks:
 
-	NN_attack
+NN_attack
 	
-	Loss-Threshold
+Loss-Threshold
 	
-	Label-only
+Label-only
 	
-	Top3-NN attack
+Top3-NN attack
 	
-	Top1-Threshold
+Top1-Threshold
 	
-	BlindMI-Diff-w
+BlindMI-Diff-w
 	
-	BlindMI-Diff-w/o
+BlindMI-Diff-w/o
 	
-	BlindMI-Diff-1CLASS 
+BlindMI-Diff-1CLASS 
 	
-	Top2+True
+Top2+True
 	
-	Privacy Risk Scores
+Privacy Risk Scores
 	
-	Shapley Values
+Shapley Values
 	
-	Positive Predictive Value 
+Positive Predictive Value 
 	
-	Calibrated Score
+Calibrated Score
 	
-	Distillation-based Thre.
+Distillation-based Thre.
 	
-	Likelihood ratio attack
+Likelihood ratio attack
 	
 Datasets: CIFAR100, CIFAR10, CH_MNIST, ImageNet, Location30, 
 Purchase100, Texas100
