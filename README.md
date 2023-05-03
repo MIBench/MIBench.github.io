@@ -4,21 +4,37 @@ MIBench: A Comprehensive Benchmark for Membership Inference Attacks
 MIBench is a comprehensive benchmark for comparing different MI attacks, which consists not only the evaluation metric module, but also the evaluation scenario module. And we design the evaluation scenarios from four perspectives: the distance distribution of data samples in the target dataset, the distance between data samples of the target dataset, the differential distance between two datasets (i.e., the target dataset and a generated dataset with only nonmembers), and the ratio of the samples that are made no inferences by an MI attack. The evaluation metric module consists of ten typical evaluation metrics (e.g., accuracy, precision, recall, f1-score, false positive rate (FPR), false negative rate (FNR), membership advantage (MA), the Area Under the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ fixed (low) FPR, threshold at maximum MA). We have identified three principles for the proposed “comparing different MI attacks” methodology, and we have designed and implemented the MIBench benchmark with 84 evaluation scenarios for each dataset. In total, we have used our benchmark to fairly and systematically compare 15 state-of-the-art MI attack algorithms across 588 evaluation scenarios, and these evaluation scenarios cover 7 widely used datasets and 7 representative types of models.
 
 MI attacks:
+
 	NN_attack
+	
 	Loss-Threshold
+	
 	Label-only
+	
 	Top3-NN attack
+	
 	Top1-Threshold
+	
 	BlindMI-Diff-w
+	
 	BlindMI-Diff-w/o
+	
 	BlindMI-Diff-1CLASS 
+	
 	Top2+True
+	
 	Privacy Risk Scores
+	
 	Shapley Values
+	
 	Positive Predictive Value 
+	
 	Calibrated Score
+	
 	Distillation-based Thre.
+	
 	Likelihood ratio attack
+	
 Datasets: CIFAR100, CIFAR10, CH_MNIST, ImageNet, Location30, 
 Purchase100, Texas100
 
@@ -79,15 +95,25 @@ In this work, we have designed and implemented the MIBench benchmark with 84 eva
 Part II: Evaluation Metrics
 We mainly use attacker-side accuracy, precision, recall, f1-score, false positive rate (FPR), false negative rate (FNR), membership advantage (MA), the Area Under 
 the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ fixed (low) FPR, threshold at maximum MA, as our evaluation metrics. The details of the evaluation metrics are shown as follows.
+
 (a) accuracy: the percentage of data samples with correct membership predictions by MI attacks;
+
 (b) precision: the ratio of real-true members predicted among all the positive membership predictions made by an adversary; 
+
 (c) recall: the ratio of true members predicted by an adversary among all the real-true members; 
+
 (d) f1-score: the harmonic mean of precision and recall; 
+
 (e) false positive rate (FPR): the ratio of nonmember samples are erroneously predicted as members; 
+
 (f) false negative rate (FNR): the difference of the 1 and recall (e.g., FNR=1-recall);
+
 (g) membership advantage (MA)：the difference between the true positive rate and the false positive rate (e.g., MA = TPR - FPR);
+
 (h) Area Under the Curve (AUC): computed as the Area Under the Curve of attack Receiver Operating Characteristic (ROC);
+
 (i) TPR @ fixed (low) FPR: an attack’s truepositive rate at (fixed) low false-positive rates;
+
 (j) threshold at maximum MA: a threshold to achieve maximum MA.
 
 
