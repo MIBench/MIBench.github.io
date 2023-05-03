@@ -5,10 +5,10 @@ MIBench is a comprehensive benchmark for comparing different MI attacks, which c
 
 MI attacks:  
 *    NN_attack  
-   Loss-Threshold  
-\quad Label-only  
-\quad Top3-NN attack  
-\quad Top1-Threshold  
+*   Loss-Threshold  
+* Label-only  
+* Top3-NN attack  
+* Top1-Threshold  
 \quad BlindMI-Diff-w  
 \quad BlindMI-Diff-w/o  
 \quad BlindMI-Diff-1CLASS   
