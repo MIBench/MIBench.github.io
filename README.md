@@ -121,27 +121,27 @@ ES57: CIFAR100_Bernoulli + 2.893 +0.085 + 20%
 
 **RQ2: Effect of Distance between data samples of the Target Dataset**
 
-ES02: CIFAR100_Normal + 2.893 + 0.085 + 40% 
-ES10: CIFAR100_Normal + 3.813 + 0.085 + 40%
-ES22: CIFAR100_Normal + 4.325 + 0.085 + 40%
+ES02: CIFAR100_Normal + 2.893 + 0.085 + 40%                        
+ES10: CIFAR100_Normal + 3.813 + 0.085 + 40%                       
+ES22: CIFAR100_Normal + 4.325 + 0.085 + 40%                       
 ![CIFAR100_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/219857440-b9a22ebc-8f68-48b8-af90-57f390781d13.png)
 
 
 
 **RQ3: Effect of Differential Distances between two datasets**
 
-ES03: CIFAR100_Normal + 2.893 + 0.085 + 45%
-ES05: CIFAR100_Normal + 2.893 + 0.119 + 45%
-ES07: CIFAR100_Normal + 2.893 + 0.157 + 45%                     
+ES03: CIFAR100_Normal + 2.893 + 0.085 + 45%                       
+ES05: CIFAR100_Normal + 2.893 + 0.119 + 45%                       
+ES07: CIFAR100_Normal + 2.893 + 0.157 + 45%                                            
 ![CIFAR100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/219857466-c0857043-b7d5-4bfb-a1a2-709d26b5b7a1.png)
 
 
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
 
-ES37: CIFAR100_Uniform + 3.813 + 0.085 + 20%
-ES38: CIFAR100_Uniform + 3.813 + 0.085 + 40%
-ES39: CIFAR100_Uniform + 3.813 + 0.085 + 45% 
-ES40: CIFAR100_Uniform + 3.813 + 0.085 + 49% 
+ES37: CIFAR100_Uniform + 3.813 + 0.085 + 20%                       
+ES38: CIFAR100_Uniform + 3.813 + 0.085 + 40%                       
+ES39: CIFAR100_Uniform + 3.813 + 0.085 + 45%                        
+ES40: CIFAR100_Uniform + 3.813 + 0.085 + 49%                        
 ![CIFAR100_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/219857475-56cccc31-1e56-4f75-8f6a-f60cdf096396.png)
 
 
@@ -149,37 +149,37 @@ ES40: CIFAR100_Uniform + 3.813 + 0.085 + 49%
 
 **RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
 
-ES13: CIFAR10_Normal + 2.501 + 0.213 + 20%
-ES41: CIFAR10_Uniform + 2.501 + 0.213 + 20%
-ES69: CIFAR10_Bernoulli + 2.501 + 0.213 + 20%
+ES13: CIFAR10_Normal + 2.501 + 0.213 + 20%                       
+ES41: CIFAR10_Uniform + 2.501 + 0.213 + 20%                       
+ES69: CIFAR10_Bernoulli + 2.501 + 0.213 + 20%                       
         
 ![CIFAR10_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/219933681-e0ab7da6-63e6-4d77-90c8-8bfa4e69c67c.png)
  
 
 **RQ2: Effect of Distance between data samples of the Target Dataset**
 
-ES02: CIFAR10_Normal + 1.908 + 0.155 + 40%
-ES10: CIFAR10_Normal + 2.501 + 0.155 + 40%
-ES22: CIFAR10_Normal + 3.472 + 0.155 + 40%
+ES02: CIFAR10_Normal + 1.908 + 0.155 + 40%                       
+ES10: CIFAR10_Normal + 2.501 + 0.155 + 40%                       
+ES22: CIFAR10_Normal + 3.472 + 0.155 + 40%                       
                     
 ![CIFAR10_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/219933690-c9b04621-9d44-43c5-8dbe-3e6474dcd781.png)
 
 
 **RQ3: Effect of Differential Distances between two datasets**
 
-ES51: CIFAR10_Uniform + 3.472 + 0.155 + 45%
-ES53: CIFAR10_Uniform + 3.472 + 0.213 + 45% 
-ES55: CIFAR10_Uniform + 3.472 + 0.291 + 45% 
+ES51: CIFAR10_Uniform + 3.472 + 0.155 + 45%                       
+ES53: CIFAR10_Uniform + 3.472 + 0.213 + 45%                        
+ES55: CIFAR10_Uniform + 3.472 + 0.291 + 45%                        
                     
 ![CIFAR10_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/219933691-86b1ae51-f4b4-4c96-8428-fa8c1e83b5fd.png)
 
 
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
 
-ES57: CIFAR10_Bernoulli + 1.908 +0.155 + 20% 
-ES58: CIFAR10_Bernoulli + 1.908 + 0.155 + 40%
-ES59: CIFAR10_Bernoulli + 1.908 + 0.155 + 45%
-ES60: CIFAR10_Bernoulli + 1.908 + 0.155 + 49% 
+ES57: CIFAR10_Bernoulli + 1.908 +0.155 + 20%                        
+ES58: CIFAR10_Bernoulli + 1.908 + 0.155 + 40%                       
+ES59: CIFAR10_Bernoulli + 1.908 + 0.155 + 45%                       
+ES60: CIFAR10_Bernoulli + 1.908 + 0.155 + 49%                        
         
 ![CIFAR10_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/219933699-f10df496-f69b-47a2-8fa8-d31f4c0a2cfb.png)
    
@@ -188,36 +188,36 @@ ES60: CIFAR10_Bernoulli + 1.908 + 0.155 + 49%
 
 **RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
 
-ES21: CH_MNIST_Normal + 1.720 +0.083 + 20%
-ES49 : CH_MNIST_Uniform + 1.720 +0.083 + 20%
-ES77: CH_MNIST_Bernoulli + 1.720 +0.083 + 20%
+ES21: CH_MNIST_Normal + 1.720 +0.083 + 20%                       
+ES49 : CH_MNIST_Uniform + 1.720 +0.083 + 20%                       
+ES77: CH_MNIST_Bernoulli + 1.720 +0.083 + 20%                       
 ![CH_MNIST_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220026897-2b7bc960-dfeb-4eee-bbe4-4d1c995aa7b8.png)
 
 
 **RQ2: Effect of Distance between data samples of the Target Dataset**
 
-ES04: CH_MNIST_Uniform + 0.954 + 0.108 + 40%
-ES14: CH_MNIST_Uniform + 1.355 + 0.108 + 40%
-ES24: CH_MNIST_Uniform + 1.720 + 0.108 + 40%
+ES04: CH_MNIST_Uniform + 0.954 + 0.108 + 40%                       
+ES14: CH_MNIST_Uniform + 1.355 + 0.108 + 40%                       
+ES24: CH_MNIST_Uniform + 1.720 + 0.108 + 40%                       
                     
 ![CH_MNIST_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220026979-f6893d18-4fb7-4cbb-b1dc-7e33fe4b5fa0.png)
 
 
 **RQ3: Effect of Differential Distances between two datasets**
 
-ES03: CH_MNIST_Normal + 0.954 + 0.083 + 45%
-ES05: CH_MNIST_Normal + 0.954 + 0.108 + 45%
-ES07: CH_MNIST_Normal + 0.954 + 0.133 + 45%
+ES03: CH_MNIST_Normal + 0.954 + 0.083 + 45%                       
+ES05: CH_MNIST_Normal + 0.954 + 0.108 + 45%                       
+ES07: CH_MNIST_Normal + 0.954 + 0.133 + 45%                       
 ![CH_MNIST_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220027031-de965164-7907-4ff6-8f4d-78dbdbc0409e.png)
           
 
 
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
 
-ES73: CH_MNIST_Bernoulli + 1.355 + 0.133 + 20%
-ES74: CH_MNIST_Bernoulli + 1.355 + 0.133 + 40%
-ES75: CH_MNIST_Bernoulli + 1.355 + 0.133 + 45%
-ES76: CH_MNIST_Bernoulli + 1.355 + 0.133 + 49%
+ES73: CH_MNIST_Bernoulli + 1.355 + 0.133 + 20%                       
+ES74: CH_MNIST_Bernoulli + 1.355 + 0.133 + 40%                       
+ES75: CH_MNIST_Bernoulli + 1.355 + 0.133 + 45%                       
+ES76: CH_MNIST_Bernoulli + 1.355 + 0.133 + 49%                       
            
 ![CH_MNIST_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220027085-3a6964e6-edb5-4d55-b919-1a909f3c300c.png)
 
@@ -225,25 +225,25 @@ ES76: CH_MNIST_Bernoulli + 1.355 + 0.133 + 49%
 
 **RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
 
-ES02: ImageNet_Normal + 0.934 + 0.046 + 40%
-ES30: ImageNet_Uniform + 0.934 + 0.046 + 40%
-ES58: ImageNet_Bernoulli + 0.934 + 0.046 + 40%
+ES02: ImageNet_Normal + 0.934 + 0.046 + 40%                       
+ES30: ImageNet_Uniform + 0.934 + 0.046 + 40%                       
+ES58: ImageNet_Bernoulli + 0.934 + 0.046 + 40%                       
 ![ImageNet_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220027209-2ac37e6d-4068-4055-a7db-ca5c35de9201.png)
 
 
 **RQ2: Effect of Distance between data samples of the Target Dataset**
 
-ES34: ImageNet_Uniform + 0.934 + 0.08 + 49% 
-ES44: ImageNet_Uniform + 1.130 + 0.08 + 49%
-ES54: ImageNet_Uniform + 1.388 + 0.08 + 49%
+ES34: ImageNet_Uniform + 0.934 + 0.08 + 49%                        
+ES44: ImageNet_Uniform + 1.130 + 0.08 + 49%                       
+ES54: ImageNet_Uniform + 1.388 + 0.08 + 49%                       
 ![ImageNet_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220027299-2748512f-2418-4a75-969f-422d39ee38d4.png)
 
 
 **RQ3: Effect of Differential Distances between two datasets**
 
-ES79: ImageNet_Bernoulli + 1.388 + 0.046 + 45% 
-ES81: ImageNet_Bernoulli + 1.388 + 0.080 + 45%
-ES83: ImageNet_Bernoulli + 1.388 + 0.145 + 45%
+ES79: ImageNet_Bernoulli + 1.388 + 0.046 + 45%                        
+ES81: ImageNet_Bernoulli + 1.388 + 0.080 + 45%                       
+ES83: ImageNet_Bernoulli + 1.388 + 0.145 + 45%                       
 ![ImageNet_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220027343-97532c83-2c71-4992-b3f8-dd9fc1789ba7.png)
 
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
