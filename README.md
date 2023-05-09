@@ -58,8 +58,6 @@ In this work, we have designed and implemented the MIBench benchmark with 84 eva
 
 
 (b) Evaluation Scenarios of CIFAR10.
-![02](https://user-images.githubusercontent.com/124696836/236976361-236945cf-4032-4872-9c63-939b01212a17.png)
-
 ![Evaluation Scenarios of CIFAR10](https://user-images.githubusercontent.com/124696836/217288349-85c55eed-ae51-4721-a063-618b45a4eef4.png)
 
 (c) Evaluation Scenarios of CH_MNIST.
