@@ -98,9 +98,18 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
 
 
 
-Results:
-(1) CIFAR100:
-RQ1: Effect of data Distributions
+**Results**:
+   The results section consists of two parts: the results of 84 evaluation scenarios (ES) and the results of 4 research questions (RQ). And in each part, we identify the evaluation results of 15 state-of-the-art MI attacks by ten evaluation metrics (e.g., attacker-side accuracy, precision, recall, f1-score, FPR, FNR, MA, AUC, TPR @ fixed (low) FPR (T@0.01%F and T@0.1%F), threshold at maximum MA).
+   
+   * Part I: The Results of 84 Evaluation Scenarios
+
+**1. Distillation-based: **
+   ** (1) CIFAR100:**
+   
+   * Part II: The Results of 4 Research Questions
+   
+**(1) CIFAR100:**
+**RQ1: Effect of data Distributions**
 ES01: CIFAR100_Normal + 2.893 + 0.085 + 20%
 ES29: CIFAR100_Uniform + 2.893 + 0.085 + 20% 
 ES57: CIFAR100_Bernoulli + 2.893 +0.085 + 20%
