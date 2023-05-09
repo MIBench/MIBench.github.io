@@ -124,7 +124,8 @@ ES57: CIFAR100_Bernoulli + 2.893 +0.085 + 20%
 ![CIFAR100_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/219857423-023f397c-8b77-4406-8f17-344609c83721.png)
    
 
-RQ2: Effect of Distance between data samples of the Target Dataset
+**RQ2: Effect of Distance between data samples of the Target Dataset**
+
 ES02: CIFAR100_Normal + 2.893 + 0.085 + 40% 
 ES10: CIFAR100_Normal + 3.813 + 0.085 + 40%
 ES22: CIFAR100_Normal + 4.325 + 0.085 + 40%
@@ -148,7 +149,9 @@ ES40: CIFAR100_Uniform + 3.813 + 0.085 + 49%
 
 
 (2) CIFAR10:
-RQ1: Effect of data Distributions
+
+**RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
+
 ES13: CIFAR10_Normal + 2.501 + 0.213 + 20%
 ES41: CIFAR10_Uniform + 2.501 + 0.213 + 20%
 ES69: CIFAR10_Bernoulli + 2.501 + 0.213 + 20%
@@ -156,7 +159,8 @@ ES69: CIFAR10_Bernoulli + 2.501 + 0.213 + 20%
 ![CIFAR10_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/219933681-e0ab7da6-63e6-4d77-90c8-8bfa4e69c67c.png)
  
 
-RQ2: Effect of Distance between members and nonmembers
+**RQ2: Effect of Distance between data samples of the Target Dataset**
+
 ES02: CIFAR10_Normal + 1.908 + 0.155 + 40%
 ES10: CIFAR10_Normal + 2.501 + 0.155 + 40%
 ES22: CIFAR10_Normal + 3.472 + 0.155 + 40%
@@ -182,14 +186,17 @@ ES60: CIFAR10_Bernoulli + 1.908 + 0.155 + 49%
    
 
 (3) CH_MNIST:
-RQ1: Effect of data Distributions
+
+**RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
+
 ES21: CH_MNIST_Normal + 1.720 +0.083 + 20%
 ES49 : CH_MNIST_Uniform + 1.720 +0.083 + 20%
 ES77: CH_MNIST_Bernoulli + 1.720 +0.083 + 20%
 ![CH_MNIST_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220026897-2b7bc960-dfeb-4eee-bbe4-4d1c995aa7b8.png)
 
 
-RQ2: Effect of Distance between members and nonmembers
+**RQ2: Effect of Distance between data samples of the Target Dataset**
+
 ES04: CH_MNIST_Uniform + 0.954 + 0.108 + 40%
 ES14: CH_MNIST_Uniform + 1.355 + 0.108 + 40%
 ES24: CH_MNIST_Uniform + 1.720 + 0.108 + 40%
@@ -214,14 +221,17 @@ ES76: CH_MNIST_Bernoulli + 1.355 + 0.133 + 49%
 ![CH_MNIST_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220027085-3a6964e6-edb5-4d55-b919-1a909f3c300c.png)
 
 (4) ImageNet:
-RQ1: Effect of data Distributions
+
+**RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
+
 ES02: ImageNet_Normal + 0.934 + 0.046 + 40%
 ES30: ImageNet_Uniform + 0.934 + 0.046 + 40%
 ES58: ImageNet_Bernoulli + 0.934 + 0.046 + 40%
 ![ImageNet_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220027209-2ac37e6d-4068-4055-a7db-ca5c35de9201.png)
 
 
-RQ2: Effect of Distance between members and nonmembers
+**RQ2: Effect of Distance between data samples of the Target Dataset**
+
 ES34: ImageNet_Uniform + 0.934 + 0.08 + 49% 
 ES44: ImageNet_Uniform + 1.130 + 0.08 + 49%
 ES54: ImageNet_Uniform + 1.388 + 0.08 + 49%
@@ -244,7 +254,9 @@ ES16: ImageNet_Normal + 1.130 + 0.080 + 49%
 
 
 (5) Location30:
-RQ1: Effect of data Distributions
+
+**RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
+
 ES01: Location30_Normal + 0.570 + 0.041 + 4%
 ES29: Location30_Uniform + 0.570 + 0.041 + 4%
 ES57: Location30_Bernoulli + 0.570 + 0.041 + 4% 
@@ -252,7 +264,8 @@ ES57: Location30_Bernoulli + 0.570 + 0.041 + 4%
  
 
 
-RQ2: Effect of Distance between members and nonmembers
+**RQ2: Effect of Distance between data samples of the Target Dataset**
+
 ES32: Location30_Uniform + 0.57 + 0.076 + 8%
 ES42: Location30_Uniform + 0.724 + 0.076 + 8%
 ES52: Location30_Uniform + 0.801 + 0.076 + 8%
@@ -275,14 +288,17 @@ ES76: Location30_Bernoulli + 0.724 + 0.094 + 16%
 
 
 (6) Purchase100:
-RQ1: Effect of data Distributions
+
+**RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
+
 ES01: Purchase100_Normal + 0.550 + 0.087 + 2%
 ES29: Purchase100_Uniform + 0.550 + 0.087 + 2%
 ES57: Purchase100_Bernoulli + 0.550 + 0.087 + 2%
            
 ![Purchase100_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220282330-bde5d136-3dea-4ef6-9f08-833e58816532.png)
 
-RQ2: Effect of Distance between members and nonmembers
+**RQ2: Effect of Distance between data samples of the Target Dataset**
+
 ES04: Purchase100_Normal + 0.550 + 0.110 + 4%
 ES14: Purchase100_Normal + 0.625 + 0.110 + 4%
 ES24: Purchase100_Normal + 0.729 + 0.110 + 4%
@@ -305,13 +321,17 @@ ES68: Purchase100_Bernoulli + 0.625 + 0.087 + 12%
 ![Purchase100_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220282466-ee7ce129-b8e6-4705-9f52-cbe361e5a199.png)
 
 (7) Texas100:
-RQ1: Effect of data Distributions
+
+**RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
+
 ES01: Texas100_Normal + 0.530 + 0.038 + 2%
 ES29: Texas100_Uniform + 0.530 + 0.038 + 2%
 ES57: Texas100_Bernoulli + 0.530 + 0.038 + 2%
         
 ![Texas100_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220282556-caaea300-e406-4a46-bbb6-2eae9905fa23.png)
-RQ2: Effect of Distance between members and nonmembers
+
+**RQ2: Effect of Distance between data samples of the Target Dataset**
+
 ES02: Texas100_Normal + 0.530 + 0.038 + 4%
 ES10: Texas100_Normal + 0.641 + 0.038 + 4%
 ES22: Texas100_Normal + 0.734 + 0.038 + 4%
