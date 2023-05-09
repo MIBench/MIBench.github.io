@@ -105,8 +105,9 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
    
    * Part I: The Results of 84 Evaluation Scenarios
 
-**1. Distillation-based: 
-   ** (1) CIFAR100:
+**1. Distillation-based**: 
+
+   ** (1) CIFAR100**:
    
    * Part II: The Results of 4 Research Questions
    
