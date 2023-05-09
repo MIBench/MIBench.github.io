@@ -54,7 +54,7 @@ In this work, we have designed and implemented the MIBench benchmark with 84 eva
 
 
 (a) Evaluation Scenarios of CIFAR100.
-![Evaluation Scenarios of CIFAR100_V1](https://user-images.githubusercontent.com/124696836/217288244-4e5e3a64-6649-457d-ae69-a8c8ad566322.png)
+<img width="1772" alt="CIFAR100" src="https://user-images.githubusercontent.com/124696836/236993194-eceadb11-28d1-42d0-9d16-e1aaf44bd20a.png">
 
 
 (b) Evaluation Scenarios of CIFAR10.
