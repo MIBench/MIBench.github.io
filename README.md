@@ -2,7 +2,7 @@
 MIBench: A Comprehensive Benchmark for Membership Inference Attacks
 
 
-<img width="850" alt="Distillation-based_不同评估场景_实验结果_v1" src="https://user-images.githubusercontent.com/124696836/236984791-c349ee3c-1ff5-49bb-a035-6a4a6bce5bf8.png">
+<img width="950" alt="Distillation-based_不同评估场景_实验结果_v1" src="https://user-images.githubusercontent.com/124696836/236984791-c349ee3c-1ff5-49bb-a035-6a4a6bce5bf8.png">
 
 
 MIBench is a comprehensive benchmark for comparing different MI attacks, which consists not only the evaluation metric module, but also the evaluation scenario module. And we design the evaluation scenarios from four perspectives: the distance distribution of data samples in the target dataset, the distance between data samples of the target dataset, the differential distance between two datasets (i.e., the target dataset and a generated dataset with only nonmembers), and the ratio of the samples that are made no inferences by an MI attack. The evaluation metric module consists of ten typical evaluation metrics (e.g., accuracy, precision, recall, f1-score, false positive rate (FPR), false negative rate (FNR), membership advantage (MA), the Area Under the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ fixed (low) FPR, threshold at maximum MA). We have identified three principles for the proposed “comparing different MI attacks” methodology, and we have designed and implemented the MIBench benchmark with 84 evaluation scenarios for each dataset. In total, we have used our benchmark to fairly and systematically compare 15 state-of-the-art MI attack algorithms across 588 evaluation scenarios, and these evaluation scenarios cover 7 widely used datasets and 7 representative types of models.
