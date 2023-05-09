@@ -112,7 +112,7 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
    
 **(1) CIFAR100**:
 
-**RQ1: Effect of the Distance Distribution of Data Damples in the Target Dataset**
+**RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
 
 ES01: CIFAR100_Normal + 2.893 + 0.085 + 20%                       
 ES29: CIFAR100_Uniform + 2.893 + 0.085 + 20%                       
@@ -120,7 +120,7 @@ ES57: CIFAR100_Bernoulli + 2.893 +0.085 + 20%
 ![CIFAR100_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/219857423-023f397c-8b77-4406-8f17-344609c83721.png)
    
 
-RQ2: Effect of Distance between members and nonmembers
+RQ2: Effect of Distance between data samples of the Target Dataset
 ES02: CIFAR100_Normal + 2.893 + 0.085 + 40% 
 ES10: CIFAR100_Normal + 3.813 + 0.085 + 40%
 ES22: CIFAR100_Normal + 4.325 + 0.085 + 40%
