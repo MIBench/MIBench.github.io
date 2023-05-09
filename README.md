@@ -128,14 +128,16 @@ ES22: CIFAR100_Normal + 4.325 + 0.085 + 40%
 
 
 
-RQ3: Effect of Differential Distances between two datasets
+**RQ3: Effect of Differential Distances between two datasets**
+
 ES03: CIFAR100_Normal + 2.893 + 0.085 + 45%
 ES05: CIFAR100_Normal + 2.893 + 0.119 + 45%
 ES07: CIFAR100_Normal + 2.893 + 0.157 + 45%                     
 ![CIFAR100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/219857466-c0857043-b7d5-4bfb-a1a2-709d26b5b7a1.png)
 
 
-RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack 
+**RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
+
 ES37: CIFAR100_Uniform + 3.813 + 0.085 + 20%
 ES38: CIFAR100_Uniform + 3.813 + 0.085 + 40%
 ES39: CIFAR100_Uniform + 3.813 + 0.085 + 45% 
@@ -163,7 +165,8 @@ ES22: CIFAR10_Normal + 3.472 + 0.155 + 40%
 ![CIFAR10_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/219933690-c9b04621-9d44-43c5-8dbe-3e6474dcd781.png)
 
 
-RQ3: Effect of Differential Distances between two datasets
+**RQ3: Effect of Differential Distances between two datasets**
+
 ES51: CIFAR10_Uniform + 3.472 + 0.155 + 45%
 ES53: CIFAR10_Uniform + 3.472 + 0.213 + 45% 
 ES55: CIFAR10_Uniform + 3.472 + 0.291 + 45% 
@@ -171,7 +174,8 @@ ES55: CIFAR10_Uniform + 3.472 + 0.291 + 45%
 ![CIFAR10_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/219933691-86b1ae51-f4b4-4c96-8428-fa8c1e83b5fd.png)
 
 
-RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack 
+**RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
+
 ES57: CIFAR10_Bernoulli + 1.908 +0.155 + 20% 
 ES58: CIFAR10_Bernoulli + 1.908 + 0.155 + 40%
 ES59: CIFAR10_Bernoulli + 1.908 + 0.155 + 45%
@@ -199,7 +203,8 @@ ES24: CH_MNIST_Uniform + 1.720 + 0.108 + 40%
 ![CH_MNIST_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220026979-f6893d18-4fb7-4cbb-b1dc-7e33fe4b5fa0.png)
 
 
-RQ3: Effect of Differential Distances between two datasets
+**RQ3: Effect of Differential Distances between two datasets**
+
 ES03: CH_MNIST_Normal + 0.954 + 0.083 + 45%
 ES05: CH_MNIST_Normal + 0.954 + 0.108 + 45%
 ES07: CH_MNIST_Normal + 0.954 + 0.133 + 45%
@@ -207,7 +212,8 @@ ES07: CH_MNIST_Normal + 0.954 + 0.133 + 45%
           
 
 
-RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack 
+**RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
+
 ES73: CH_MNIST_Bernoulli + 1.355 + 0.133 + 20%
 ES74: CH_MNIST_Bernoulli + 1.355 + 0.133 + 40%
 ES75: CH_MNIST_Bernoulli + 1.355 + 0.133 + 45%
@@ -233,13 +239,15 @@ ES54: ImageNet_Uniform + 1.388 + 0.08 + 49%
 ![ImageNet_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220027299-2748512f-2418-4a75-969f-422d39ee38d4.png)
 
 
-RQ3: Effect of Differential Distances between two datasets
+**RQ3: Effect of Differential Distances between two datasets**
+
 ES79: ImageNet_Bernoulli + 1.388 + 0.046 + 45% 
 ES81: ImageNet_Bernoulli + 1.388 + 0.080 + 45%
 ES83: ImageNet_Bernoulli + 1.388 + 0.145 + 45%
 ![ImageNet_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220027343-97532c83-2c71-4992-b3f8-dd9fc1789ba7.png)
 
-RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack 
+**RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
+
 ES13: ImageNet_Normal + 1.130 + 0.080 + 20%
 ES14: ImageNet_Normal + 1.130 + 0.080 + 40%
 ES15: ImageNet_Normal + 1.130 + 0.080 + 45%
@@ -267,13 +275,15 @@ ES52: Location30_Uniform + 0.801 + 0.076 + 8%
                     
 ![Location30_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220057949-2f0389c7-738e-4ad2-ae44-56c388d20a9f.png)
 
-RQ3: Effect of Differential Distances between two datasets
+**RQ3: Effect of Differential Distances between two datasets**
+
 ES23: Location30_Normal + 0.801 + 0.041 + 12%
 ES25: Location30_Normal + 0.801 + 0.076 + 12%
 ES27: Location30_Normal + 0.801 + 0.094 + 12%
 ![Location30_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220058019-2694ad4a-f661-4e9a-8fea-ef5f7bba054a.png)
          
-RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack
+**RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
+
 ES73: Location30_Bernoulli + 0.724 + 0.094 + 4%
 ES74: Location30_Bernoulli + 0.724 + 0.094 + 8%
 ES75: Location30_Bernoulli + 0.724 + 0.094 + 12%
@@ -299,7 +309,8 @@ ES14: Purchase100_Normal + 0.625 + 0.110 + 4%
 ES24: Purchase100_Normal + 0.729 + 0.110 + 4%
 ![Purchase100_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220282362-9ae055f3-8e3a-4741-9781-683199aa5618.png)
 
-RQ3: Effect of Differential Distances between two datasets
+**RQ3: Effect of Differential Distances between two datasets**
+
 ES51: Purchase100_Uniform + 0.729 + 0.087 + 10%
 ES53: Purchase100_Uniform + 0.729 + 0.110 + 10%
 ES55: Purchase100_Uniform + 0.729 + 0.156 + 10%
@@ -307,7 +318,8 @@ ES55: Purchase100_Uniform + 0.729 + 0.156 + 10%
                     
 ![Purchase100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220282410-f5573edf-cb65-4a37-8d75-351488c676c2.png)
 
-RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack
+**RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
+
 ES65: Purchase100_Bernoulli + 0.625 + 0.087 + 2%
 ES66: Purchase100_Bernoulli + 0.625 + 0.087 + 4%
 ES67: Purchase100_Bernoulli + 0.625 + 0.087 + 10%
@@ -333,14 +345,16 @@ ES22: Texas100_Normal + 0.734 + 0.038 + 4%
 ![Texas100_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220282619-c9f17da0-758c-4586-a8fa-7a2edba53f5d.png)
                 
 
-RQ3: Effect of Differential Distances between two datasets
+**RQ3: Effect of Differential Distances between two datasets**
+
 ES51: Texas100_Uniform + 0.734 + 0.038 + 10%
 ES53: Texas100_Uniform + 0.734 + 0.073 + 10%
 ES55: Texas100_Uniform + 0.734 + 0.107 + 10%
                     
 ![Texas100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220282636-4da0db4a-5f2f-47c0-910c-a84b9619c703.png)
 
-RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack
+**RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
+
 ES65: Texas100_Bernoulli + 0.641 + 0.038 + 2%
 ES66: Texas100_Bernoulli + 0.641 + 0.038 + 4%
 ES67: Texas100_Bernoulli + 0.641 + 0.038 + 10%
