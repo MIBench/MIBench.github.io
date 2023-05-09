@@ -123,7 +123,7 @@ ES57: CIFAR100_Bernoulli + 2.893 +0.085 + 20%
 
 ES02: CIFAR100_Normal + 2.893 + 0.085 + 40%                        
 ES10: CIFAR100_Normal + 3.813 + 0.085 + 40%                       
-ES22: CIFAR100_Normal + 4.325 + 0.085 + 40%                       
+ES22: CIFAR100_Normal + 4.325 + 0.085 + 40%
 ![CIFAR100_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/219857440-b9a22ebc-8f68-48b8-af90-57f390781d13.png)
 
 
@@ -132,7 +132,7 @@ ES22: CIFAR100_Normal + 4.325 + 0.085 + 40%
 
 ES03: CIFAR100_Normal + 2.893 + 0.085 + 45%                       
 ES05: CIFAR100_Normal + 2.893 + 0.119 + 45%                       
-ES07: CIFAR100_Normal + 2.893 + 0.157 + 45%                                            
+ES07: CIFAR100_Normal + 2.893 + 0.157 + 45%
 ![CIFAR100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/219857466-c0857043-b7d5-4bfb-a1a2-709d26b5b7a1.png)
 
 
@@ -141,7 +141,7 @@ ES07: CIFAR100_Normal + 2.893 + 0.157 + 45%
 ES37: CIFAR100_Uniform + 3.813 + 0.085 + 20%                       
 ES38: CIFAR100_Uniform + 3.813 + 0.085 + 40%                       
 ES39: CIFAR100_Uniform + 3.813 + 0.085 + 45%                        
-ES40: CIFAR100_Uniform + 3.813 + 0.085 + 49%                        
+ES40: CIFAR100_Uniform + 3.813 + 0.085 + 49%
 ![CIFAR100_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/219857475-56cccc31-1e56-4f75-8f6a-f60cdf096396.png)
 
 
@@ -151,8 +151,7 @@ ES40: CIFAR100_Uniform + 3.813 + 0.085 + 49%
 
 ES13: CIFAR10_Normal + 2.501 + 0.213 + 20%                       
 ES41: CIFAR10_Uniform + 2.501 + 0.213 + 20%                       
-ES69: CIFAR10_Bernoulli + 2.501 + 0.213 + 20%                       
-        
+ES69: CIFAR10_Bernoulli + 2.501 + 0.213 + 20%
 ![CIFAR10_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/219933681-e0ab7da6-63e6-4d77-90c8-8bfa4e69c67c.png)
  
 
