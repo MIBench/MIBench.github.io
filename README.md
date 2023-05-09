@@ -82,7 +82,8 @@ In this work, we have designed and implemented the MIBench benchmark with 84 eva
 
 
 * Part II: Evaluation Metrics
-We mainly use attacker-side accuracy, precision, recall, f1-score, false positive rate (FPR), false negative rate (FNR), membership advantage (MA), the Area Under 
+
+    We mainly use attacker-side accuracy, precision, recall, f1-score, false positive rate (FPR), false negative rate (FNR), membership advantage (MA), the Area Under 
 the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ fixed (low) FPR, threshold at maximum MA, as our evaluation metrics. The details of the evaluation metrics are shown as follows.
 
  (a) **accuracy**: the percentage of data samples with correct membership predictions by MI attacks;  
@@ -99,6 +100,7 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
 
 
 **Results**:
+
    The results section consists of two parts: the results of 84 evaluation scenarios (ES) and the results of 4 research questions (RQ). And in each part, we identify the evaluation results of 15 state-of-the-art MI attacks by ten evaluation metrics (e.g., attacker-side accuracy, precision, recall, f1-score, FPR, FNR, MA, AUC, TPR @ fixed (low) FPR (T@0.01%F and T@0.1%F), threshold at maximum MA).
    
    * Part I: The Results of 84 Evaluation Scenarios
