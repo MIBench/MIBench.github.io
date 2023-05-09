@@ -159,8 +159,7 @@ ES69: CIFAR10_Bernoulli + 2.501 + 0.213 + 20%
 
 ES02: CIFAR10_Normal + 1.908 + 0.155 + 40%                       
 ES10: CIFAR10_Normal + 2.501 + 0.155 + 40%                       
-ES22: CIFAR10_Normal + 3.472 + 0.155 + 40%                       
-                    
+ES22: CIFAR10_Normal + 3.472 + 0.155 + 40%
 ![CIFAR10_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/219933690-c9b04621-9d44-43c5-8dbe-3e6474dcd781.png)
 
 
@@ -168,8 +167,7 @@ ES22: CIFAR10_Normal + 3.472 + 0.155 + 40%
 
 ES51: CIFAR10_Uniform + 3.472 + 0.155 + 45%                       
 ES53: CIFAR10_Uniform + 3.472 + 0.213 + 45%                        
-ES55: CIFAR10_Uniform + 3.472 + 0.291 + 45%                        
-                    
+ES55: CIFAR10_Uniform + 3.472 + 0.291 + 45%
 ![CIFAR10_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/219933691-86b1ae51-f4b4-4c96-8428-fa8c1e83b5fd.png)
 
 
@@ -178,8 +176,7 @@ ES55: CIFAR10_Uniform + 3.472 + 0.291 + 45%
 ES57: CIFAR10_Bernoulli + 1.908 +0.155 + 20%                        
 ES58: CIFAR10_Bernoulli + 1.908 + 0.155 + 40%                       
 ES59: CIFAR10_Bernoulli + 1.908 + 0.155 + 45%                       
-ES60: CIFAR10_Bernoulli + 1.908 + 0.155 + 49%                        
-        
+ES60: CIFAR10_Bernoulli + 1.908 + 0.155 + 49%
 ![CIFAR10_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/219933699-f10df496-f69b-47a2-8fa8-d31f4c0a2cfb.png)
    
 
@@ -189,7 +186,7 @@ ES60: CIFAR10_Bernoulli + 1.908 + 0.155 + 49%
 
 ES21: CH_MNIST_Normal + 1.720 +0.083 + 20%                       
 ES49 : CH_MNIST_Uniform + 1.720 +0.083 + 20%                       
-ES77: CH_MNIST_Bernoulli + 1.720 +0.083 + 20%                       
+ES77: CH_MNIST_Bernoulli + 1.720 +0.083 + 20%
 ![CH_MNIST_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220026897-2b7bc960-dfeb-4eee-bbe4-4d1c995aa7b8.png)
 
 
@@ -197,8 +194,7 @@ ES77: CH_MNIST_Bernoulli + 1.720 +0.083 + 20%
 
 ES04: CH_MNIST_Uniform + 0.954 + 0.108 + 40%                       
 ES14: CH_MNIST_Uniform + 1.355 + 0.108 + 40%                       
-ES24: CH_MNIST_Uniform + 1.720 + 0.108 + 40%                                              
-                    
+ES24: CH_MNIST_Uniform + 1.720 + 0.108 + 40%
 ![CH_MNIST_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220026979-f6893d18-4fb7-4cbb-b1dc-7e33fe4b5fa0.png)
 
 
@@ -206,7 +202,7 @@ ES24: CH_MNIST_Uniform + 1.720 + 0.108 + 40%
 
 ES03: CH_MNIST_Normal + 0.954 + 0.083 + 45%                                              
 ES05: CH_MNIST_Normal + 0.954 + 0.108 + 45%                                              
-ES07: CH_MNIST_Normal + 0.954 + 0.133 + 45%                                              
+ES07: CH_MNIST_Normal + 0.954 + 0.133 + 45%
 ![CH_MNIST_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220027031-de965164-7907-4ff6-8f4d-78dbdbc0409e.png)
           
 
@@ -216,8 +212,7 @@ ES07: CH_MNIST_Normal + 0.954 + 0.133 + 45%
 ES73: CH_MNIST_Bernoulli + 1.355 + 0.133 + 20%                                              
 ES74: CH_MNIST_Bernoulli + 1.355 + 0.133 + 40%                                              
 ES75: CH_MNIST_Bernoulli + 1.355 + 0.133 + 45%                                              
-ES76: CH_MNIST_Bernoulli + 1.355 + 0.133 + 49%                                              
-           
+ES76: CH_MNIST_Bernoulli + 1.355 + 0.133 + 49%
 ![CH_MNIST_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220027085-3a6964e6-edb5-4d55-b919-1a909f3c300c.png)
 
 (4) ImageNet:
@@ -226,7 +221,7 @@ ES76: CH_MNIST_Bernoulli + 1.355 + 0.133 + 49%
 
 ES02: ImageNet_Normal + 0.934 + 0.046 + 40%                                              
 ES30: ImageNet_Uniform + 0.934 + 0.046 + 40%                                              
-ES58: ImageNet_Bernoulli + 0.934 + 0.046 + 40%                                              
+ES58: ImageNet_Bernoulli + 0.934 + 0.046 + 40%
 ![ImageNet_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220027209-2ac37e6d-4068-4055-a7db-ca5c35de9201.png)
 
 
@@ -234,7 +229,7 @@ ES58: ImageNet_Bernoulli + 0.934 + 0.046 + 40%
 
 ES34: ImageNet_Uniform + 0.934 + 0.08 + 49%                                               
 ES44: ImageNet_Uniform + 1.130 + 0.08 + 49%                                              
-ES54: ImageNet_Uniform + 1.388 + 0.08 + 49%                                              
+ES54: ImageNet_Uniform + 1.388 + 0.08 + 49%
 ![ImageNet_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220027299-2748512f-2418-4a75-969f-422d39ee38d4.png)
 
 
@@ -242,7 +237,7 @@ ES54: ImageNet_Uniform + 1.388 + 0.08 + 49%
 
 ES79: ImageNet_Bernoulli + 1.388 + 0.046 + 45%                                               
 ES81: ImageNet_Bernoulli + 1.388 + 0.080 + 45%                                              
-ES83: ImageNet_Bernoulli + 1.388 + 0.145 + 45%                                              
+ES83: ImageNet_Bernoulli + 1.388 + 0.145 + 45%
 ![ImageNet_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220027343-97532c83-2c71-4992-b3f8-dd9fc1789ba7.png)
 
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
@@ -250,8 +245,7 @@ ES83: ImageNet_Bernoulli + 1.388 + 0.145 + 45%
 ES13: ImageNet_Normal + 1.130 + 0.080 + 20%                       
 ES14: ImageNet_Normal + 1.130 + 0.080 + 40%                       
 ES15: ImageNet_Normal + 1.130 + 0.080 + 45%                       
-ES16: ImageNet_Normal + 1.130 + 0.080 + 49%                       
-           
+ES16: ImageNet_Normal + 1.130 + 0.080 + 49%
 ![ImageNet_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220027421-19592d0a-beea-4dba-9eb8-45009c09dc1d.png)
 
 
@@ -261,7 +255,7 @@ ES16: ImageNet_Normal + 1.130 + 0.080 + 49%
 
 ES01: Location30_Normal + 0.570 + 0.041 + 4%                       
 ES29: Location30_Uniform + 0.570 + 0.041 + 4%                       
-ES57: Location30_Bernoulli + 0.570 + 0.041 + 4%                        
+ES57: Location30_Bernoulli + 0.570 + 0.041 + 4%
 ![Location30_RQ1 RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220057919-b581ec9e-80cd-4a0a-8efd-021c78c5515b.png)
  
 
@@ -270,15 +264,14 @@ ES57: Location30_Bernoulli + 0.570 + 0.041 + 4%
 
 ES32: Location30_Uniform + 0.57 + 0.076 + 8%                       
 ES42: Location30_Uniform + 0.724 + 0.076 + 8%                       
-ES52: Location30_Uniform + 0.801 + 0.076 + 8%                       
-                    
+ES52: Location30_Uniform + 0.801 + 0.076 + 8%
 ![Location30_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220057949-2f0389c7-738e-4ad2-ae44-56c388d20a9f.png)
 
 **RQ3: Effect of Differential Distances between two datasets**
 
 ES23: Location30_Normal + 0.801 + 0.041 + 12%                       
 ES25: Location30_Normal + 0.801 + 0.076 + 12%                       
-ES27: Location30_Normal + 0.801 + 0.094 + 12%                       
+ES27: Location30_Normal + 0.801 + 0.094 + 12%
 ![Location30_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220058019-2694ad4a-f661-4e9a-8fea-ef5f7bba054a.png)
          
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
@@ -286,8 +279,7 @@ ES27: Location30_Normal + 0.801 + 0.094 + 12%
 ES73: Location30_Bernoulli + 0.724 + 0.094 + 4%                       
 ES74: Location30_Bernoulli + 0.724 + 0.094 + 8%                       
 ES75: Location30_Bernoulli + 0.724 + 0.094 + 12%                       
-ES76: Location30_Bernoulli + 0.724 + 0.094 + 16%                        
-           
+ES76: Location30_Bernoulli + 0.724 + 0.094 + 16%
 ![Location30_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220058062-812b8d3e-0cb1-425b-a94f-6896b3c98e8b.png)
 
 
@@ -297,24 +289,21 @@ ES76: Location30_Bernoulli + 0.724 + 0.094 + 16%
 
 ES01: Purchase100_Normal + 0.550 + 0.087 + 2%                       
 ES29: Purchase100_Uniform + 0.550 + 0.087 + 2%                       
-ES57: Purchase100_Bernoulli + 0.550 + 0.087 + 2%                       
-           
+ES57: Purchase100_Bernoulli + 0.550 + 0.087 + 2%
 ![Purchase100_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220282330-bde5d136-3dea-4ef6-9f08-833e58816532.png)
 
 **RQ2: Effect of Distance between data samples of the Target Dataset**
 
 ES04: Purchase100_Normal + 0.550 + 0.110 + 4%                       
 ES14: Purchase100_Normal + 0.625 + 0.110 + 4%                       
-ES24: Purchase100_Normal + 0.729 + 0.110 + 4%                       
+ES24: Purchase100_Normal + 0.729 + 0.110 + 4%
 ![Purchase100_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220282362-9ae055f3-8e3a-4741-9781-683199aa5618.png)
 
 **RQ3: Effect of Differential Distances between two datasets**
 
 ES51: Purchase100_Uniform + 0.729 + 0.087 + 10%                       
 ES53: Purchase100_Uniform + 0.729 + 0.110 + 10%                       
-ES55: Purchase100_Uniform + 0.729 + 0.156 + 10%                       
-
-                    
+ES55: Purchase100_Uniform + 0.729 + 0.156 + 10%
 ![Purchase100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220282410-f5573edf-cb65-4a37-8d75-351488c676c2.png)
 
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
@@ -322,8 +311,7 @@ ES55: Purchase100_Uniform + 0.729 + 0.156 + 10%
 ES65: Purchase100_Bernoulli + 0.625 + 0.087 + 2%                       
 ES66: Purchase100_Bernoulli + 0.625 + 0.087 + 4%                       
 ES67: Purchase100_Bernoulli + 0.625 + 0.087 + 10%                       
-ES68: Purchase100_Bernoulli + 0.625 + 0.087 + 12%                       
-           
+ES68: Purchase100_Bernoulli + 0.625 + 0.087 + 12%
 ![Purchase100_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220282466-ee7ce129-b8e6-4705-9f52-cbe361e5a199.png)
 
 (7) Texas100:
@@ -332,15 +320,14 @@ ES68: Purchase100_Bernoulli + 0.625 + 0.087 + 12%
 
 ES01: Texas100_Normal + 0.530 + 0.038 + 2%                       
 ES29: Texas100_Uniform + 0.530 + 0.038 + 2%                       
-ES57: Texas100_Bernoulli + 0.530 + 0.038 + 2%                       
-        
+ES57: Texas100_Bernoulli + 0.530 + 0.038 + 2%
 ![Texas100_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220282556-caaea300-e406-4a46-bbb6-2eae9905fa23.png)
 
 **RQ2: Effect of Distance between data samples of the Target Dataset**
 
 ES02: Texas100_Normal + 0.530 + 0.038 + 4%                       
 ES10: Texas100_Normal + 0.641 + 0.038 + 4%                       
-ES22: Texas100_Normal + 0.734 + 0.038 + 4%                       
+ES22: Texas100_Normal + 0.734 + 0.038 + 4%
 ![Texas100_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220282619-c9f17da0-758c-4586-a8fa-7a2edba53f5d.png)
                 
 
@@ -348,8 +335,7 @@ ES22: Texas100_Normal + 0.734 + 0.038 + 4%
 
 ES51: Texas100_Uniform + 0.734 + 0.038 + 10%                       
 ES53: Texas100_Uniform + 0.734 + 0.073 + 10%                       
-ES55: Texas100_Uniform + 0.734 + 0.107 + 10%                       
-                    
+ES55: Texas100_Uniform + 0.734 + 0.107 + 10%
 ![Texas100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220282636-4da0db4a-5f2f-47c0-910c-a84b9619c703.png)
 
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
@@ -357,8 +343,7 @@ ES55: Texas100_Uniform + 0.734 + 0.107 + 10%
 ES65: Texas100_Bernoulli + 0.641 + 0.038 + 2%                       
 ES66: Texas100_Bernoulli + 0.641 + 0.038 + 4%                       
 ES67: Texas100_Bernoulli + 0.641 + 0.038 + 10%                       
-ES68: Texas100_Bernoulli + 0.641 + 0.038 + 12%                       
-           
+ES68: Texas100_Bernoulli + 0.641 + 0.038 + 12%
 ![Texas100_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220282670-119c413a-6803-422e-9391-45eb2031d166.png)
 
 
