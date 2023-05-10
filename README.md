@@ -221,10 +221,12 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
    **(7) Texas100**:  
    <img width="2115" alt="2023 4 23_PPV_Texas100_不同评估场景_实验结果_13" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/0f6673f7-226f-48ee-82fd-d3822f41538d">
 <img width="2115" alt="2023 4 23_PPV_Texas100_不同评估场景_实验结果_14" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/31c4d45d-1e65-49f3-ad91-26ff3a6e392f">
-   **2. Distillation-based**:  
+
+   **6. Risk score**:  
   
   **(1) CIFAR100**:
-   
+  <img width="2127" alt="2023 4 23_Risk score_CIFAR100_不同评估场景_实验结果_01" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/7aaa6735-9b41-40a7-bc46-6e63abc4a000">
+<img width="2127" alt="2023 4 23_Risk score_CIFAR100_不同评估场景_实验结果_02" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/75c1c7bc-d544-45d2-9112-ea7f282f1b4d">
    **(2) CIFAR10**:
 
    **(3) CH_MNIST**:
