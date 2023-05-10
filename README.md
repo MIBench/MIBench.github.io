@@ -385,12 +385,15 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
    **(7) Texas100**: 
    <img width="2248" alt="2023 5 1_Top2+True_Texas100_不同评估场景_实验结果_13" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/13acb5bd-346c-48e0-956a-40892478c3e1">
 <img width="2248" alt="2023 5 1_Top2+True_Texas100_不同评估场景_实验结果_14" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/95c8adab-f4e3-42ec-9c2e-cbf204f745cb">
-   **9. BlinMI-1CLASS**:  
+
+   **13. BlindMI-w**:  
   
   **(1) CIFAR100**:
-  
+  <img width="2156" alt="2023 5 2_BlinMI-w_CIFAR100_不同评估场景_实验结果_V2_01" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/0c754d66-75f7-416e-938d-1832091f94af">
+<img width="2156" alt="2023 5 2_BlinMI-w_CIFAR100_不同评估场景_实验结果_V2_02" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/5ee6d948-a6f6-44fa-928c-7425544e4adc">
   **(2) CIFAR10**:
-   
+   <img width="2156" alt="2023 5 2_BlinMI-w_CIFAR10_不同评估场景_实验结果_V2_03" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/8dcf93a5-eecb-4ffd-adf8-63b432ddb3bc">
+<img width="2156" alt="2023 5 2_BlinMI-w_CIFAR10_不同评估场景_实验结果_V2_04" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/d7e48ef8-0a1c-414e-a627-e1328f72eaaa">
    **(3) CH_MNIST**:
    
    **(4) ImageNet**:   
