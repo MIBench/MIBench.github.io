@@ -123,8 +123,9 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
    <img width="2144" alt="2023 5 9_Distillation-based_ImageNet_不同评估场景_实验结果_09" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/b8c2f41c-1804-4dcb-a82c-3ebe197dd964">
 <img width="2144" alt="2023 5 9_Distillation-based_ImageNet_不同评估场景_实验结果_10" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/aece8f19-1fc8-4887-8344-7c9d65b37285">
 
-
-   **(5) Location30**:  
+   **(5) Location30**: 
+   <img width="2144" alt="2023 5 9_Distillation-based_Location30_不同评估场景_实验结果_11" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/e7cb7225-4f0d-492b-b1db-8cd56f17a26c">
+<img width="2144" alt="2023 5 9_Distillation-based_Location30_不同评估场景_实验结果_12" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/9044f8d0-17c1-48d2-b2f1-d4c07952be04">
    
    **(6) Purchase100**:  
    
