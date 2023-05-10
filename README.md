@@ -134,8 +134,10 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
   **(1) CIFAR100**:
   <img width="2055" alt="2023 4 23_Calibrated Score_CIFAR100_不同评估场景_实验结果(2)_01" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/9d8bb788-610d-4abe-b6e9-cbd771c8f832">
 <img width="2055" alt="2023 4 23_Calibrated Score_CIFAR100_不同评估场景_实验结果(2)_02" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/6cbd7bce-cfd0-41b7-9f94-6b323b552bc4">
-   
    **(2) CIFAR10**:
+   <img width="2055" alt="2023 4 23_Calibrated Score_CIFAR10_不同评估场景_实验结果(2)_03" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/269717f4-a6da-4900-b06b-de1e53a594f6">
+<img width="2055" alt="2023 4 23_Calibrated Score_CIFAR10_不同评估场景_实验结果(2)_04" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/1ed746bc-3cfd-4584-af74-a05299ac7510">
+
 
    **(3) CH_MNIST**:
    
