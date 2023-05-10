@@ -110,25 +110,21 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
    **(1) CIFAR100**:
    <img width="2144" alt="2023 5 9_Distillation-based_不同评估场景_实验结果_01" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/810dae09-cf18-42bb-9487-5893697dfb29">
    <img width="2144" alt="2023 5 9_Distillation-based_不同评估场景_实验结果_02" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/4514c405-a92a-4b47-b160-10bd6cfab7b2">
-   
    **(2) CIFAR10**:
    <img width="2144" alt="2023 5 9_Distillation-based_CIFAR10_不同评估场景_实验结果_05" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/315b99cd-ad47-4666-b15a-ae51d6a05671">
 <img width="2144" alt="2023 5 9_Distillation-based_CIFAR10_不同评估场景_实验结果06" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/20762444-650c-40bb-a4c5-217635ac1511">
-
    **(3) CH_MNIST**:
    <img width="2144" alt="2023 5 9_Distillation-based_CH_MNIST_不同评估场景_实验结果_07" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/cfdf53c2-3f2c-497b-a30e-fd77c4455a65">
 <img width="2144" alt="2023 5 9_Distillation-based_CH_MNIST_不同评估场景_实验结果_08" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/ed4b22f7-1bcf-42fe-9a43-bfe4e4916333">
-
    **(4) ImageNet**: 
    <img width="2144" alt="2023 5 9_Distillation-based_ImageNet_不同评估场景_实验结果_09" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/b8c2f41c-1804-4dcb-a82c-3ebe197dd964">
 <img width="2144" alt="2023 5 9_Distillation-based_ImageNet_不同评估场景_实验结果_10" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/aece8f19-1fc8-4887-8344-7c9d65b37285">
-
    **(5) Location30**: 
    <img width="2144" alt="2023 5 9_Distillation-based_Location30_不同评估场景_实验结果_11" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/e7cb7225-4f0d-492b-b1db-8cd56f17a26c">
-<img width="2144" alt="2023 5 9_Distillation-based_Location30_不同评估场景_实验结果_12" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/9044f8d0-17c1-48d2-b2f1-d4c07952be04">
-   
+<img width="2144" alt="2023 5 9_Distillation-based_Location30_不同评估场景_实验结果_12" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/9044f8d0-17c1-48d2-b2f1-d4c07952be04">   
    **(6) Purchase100**:  
-   
+   <img width="2144" alt="2023 5 9_Distillation-based_Purchase100_不同评估场景_实验结果_13" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/092f6fd1-ea33-40c3-b5f5-dd4749eb97f4">
+<img width="2144" alt="2023 5 9_Distillation-based_Purchase100_不同评估场景_实验结果_14" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/2a391173-87c4-4870-988b-5a0d36083082">
    **(7) Texas100**:  
    
    
