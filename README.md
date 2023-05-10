@@ -298,6 +298,23 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
    **(2) CIFAR10**:
 <img width="2202" alt="2023 4 27_BlinMI-1CLASS_CIFAR10_不同评估场景_实验结果_03" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/5cab2f4c-b4f8-427e-be9c-d1d71048eef4">
 <img width="2202" alt="2023 4 27_BlinMI-1CLASS_CIFAR10_不同评估场景_实验结果_04" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/539a0d59-e3b3-4ae7-9630-576e419bef2f">
+ **(3) CH_MNIST**:
+   <img width="2202" alt="2023 4 27_BlinMI-1CLASS_CH_MNST_不同评估场景_实验结果_05" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/2ebf1a71-a51e-41a7-ae04-ee1738cdce25">
+<img width="2202" alt="2023 4 27_BlinMI-1CLASS_CH_MNST_不同评估场景_实验结果_06" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/3c36731c-e6d1-4f0a-b36e-08ccec5356f2">
+   **(4) ImageNet**:   
+
+   **(5) Location30**:  
+   
+   **(6) Purchase100**:  
+   
+   **(7) Texas100**:  
+   
+   **9. BlinMI-1CLASS**:  
+  
+  **(1) CIFAR100**:
+  
+  **(2) CIFAR10**:
+   
    **(3) CH_MNIST**:
    
    **(4) ImageNet**:   
@@ -306,7 +323,87 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
    
    **(6) Purchase100**:  
    
-   **(7) Texas100**:  
+   **(7) Texas100**: 
+   
+   **9. BlinMI-1CLASS**:  
+  
+  **(1) CIFAR100**:
+  
+  **(2) CIFAR10**:
+   
+   **(3) CH_MNIST**:
+   
+   **(4) ImageNet**:   
+
+   **(5) Location30**:  
+   
+   **(6) Purchase100**:  
+   
+   **(7) Texas100**: 
+   
+   **9. BlinMI-1CLASS**:  
+  
+  **(1) CIFAR100**:
+  
+  **(2) CIFAR10**:
+   
+   **(3) CH_MNIST**:
+   
+   **(4) ImageNet**:   
+
+   **(5) Location30**:  
+   
+   **(6) Purchase100**:  
+   
+   **(7) Texas100**: 
+   
+   **9. BlinMI-1CLASS**:  
+  
+  **(1) CIFAR100**:
+  
+  **(2) CIFAR10**:
+   
+   **(3) CH_MNIST**:
+   
+   **(4) ImageNet**:   
+
+   **(5) Location30**:  
+   
+   **(6) Purchase100**:  
+   
+   **(7) Texas100**: 
+   
+   **9. BlinMI-1CLASS**:  
+  
+  **(1) CIFAR100**:
+  
+  **(2) CIFAR10**:
+   
+   **(3) CH_MNIST**:
+   
+   **(4) ImageNet**:   
+
+   **(5) Location30**:  
+   
+   **(6) Purchase100**:  
+   
+   **(7) Texas100**: 
+   
+   **9. BlinMI-1CLASS**:  
+  
+  **(1) CIFAR100**:
+  
+  **(2) CIFAR10**:
+   
+   **(3) CH_MNIST**:
+   
+   **(4) ImageNet**:   
+
+   **(5) Location30**:  
+   
+   **(6) Purchase100**:  
+   
+   **(7) Texas100**: 
    
    
    * Part II: The Results of 4 Research Questions
