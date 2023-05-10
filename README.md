@@ -264,7 +264,8 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
    <img width="2142" alt="2023 4 23_Shapley values_Purchase100_不同评估场景_实验结果_11" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/a62ac06c-b2a8-465c-aa8b-47e16a986ac1">
 <img width="2142" alt="2023 4 23_Shapley values_Purchase100_不同评估场景_实验结果_12" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/d99d4b63-0cff-47b2-82d8-f40f42a29456">
    **(7) Texas100**:  
-   
+   <img width="2142" alt="2023 4 23_Shapley values_Texas100_不同评估场景_实验结果_13" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/9ad709ce-0291-4dab-850a-043acdf8609b">
+<img width="2142" alt="2023 4 23_Shapley values_Texas100_不同评估场景_实验结果_14" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/960a880b-3d1a-4ce7-aff1-184ffadabbcd">
    **2. Distillation-based**:  
   
   **(1) CIFAR100**:
