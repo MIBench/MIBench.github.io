@@ -472,7 +472,8 @@ ES57: CIFAR100_Bernoulli + 2.893 +0.085 + 20%
 ES02: CIFAR100_Normal + 2.893 + 0.085 + 40%                        
 ES10: CIFAR100_Normal + 3.813 + 0.085 + 40%                       
 ES22: CIFAR100_Normal + 4.325 + 0.085 + 40%
-![CIFAR100_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/219857440-b9a22ebc-8f68-48b8-af90-57f390781d13.png)
+<img width="2156" alt="CIFAR100_RQ2" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/ea1e5692-0d7f-4b3b-8fc9-bd444b8028c2">
+
 
 
 
