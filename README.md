@@ -466,16 +466,12 @@ ES29: CIFAR100_Uniform + 2.893 + 0.085 + 20%
 ES57: CIFAR100_Bernoulli + 2.893 +0.085 + 20%
 <img width="2156" alt="CIFAR100_RQ1" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/3315f074-1c63-4eb3-97db-501ca6ee6a28">
    
-
 **RQ2: Effect of Distance between data samples of the Target Dataset**
 
 ES02: CIFAR100_Normal + 2.893 + 0.085 + 40%                        
 ES10: CIFAR100_Normal + 3.813 + 0.085 + 40%                       
 ES22: CIFAR100_Normal + 4.325 + 0.085 + 40%
 <img width="2156" alt="CIFAR100_RQ2" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/ea1e5692-0d7f-4b3b-8fc9-bd444b8028c2">
-
-
-
 
 **RQ3: Effect of Differential Distances between two datasets**
 
