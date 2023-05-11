@@ -478,8 +478,7 @@ ES22: CIFAR100_Normal + 4.325 + 0.085 + 40%
 ES03: CIFAR100_Normal + 2.893 + 0.085 + 45%                       
 ES05: CIFAR100_Normal + 2.893 + 0.119 + 45%                       
 ES07: CIFAR100_Normal + 2.893 + 0.157 + 45%
-![CIFAR100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/219857466-c0857043-b7d5-4bfb-a1a2-709d26b5b7a1.png)
-
+<img width="2156" alt="CIFAR100_RQ3" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/0e68ea78-bab2-4656-97e3-5aa5f525ff0d">
 
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
 
@@ -487,7 +486,7 @@ ES37: CIFAR100_Uniform + 3.813 + 0.085 + 20%
 ES38: CIFAR100_Uniform + 3.813 + 0.085 + 40%                       
 ES39: CIFAR100_Uniform + 3.813 + 0.085 + 45%                        
 ES40: CIFAR100_Uniform + 3.813 + 0.085 + 49%
-![CIFAR100_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/219857475-56cccc31-1e56-4f75-8f6a-f60cdf096396.png)
+![CIFAR100_RQ4](https://github.com/MIBench/MIBench.github.io/assets/124696836/51c502c9-9134-4140-a0a2-0ecd5bc86629)
 
 
 (2) CIFAR10:
