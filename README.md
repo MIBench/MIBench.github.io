@@ -488,7 +488,6 @@ ES39: CIFAR100_Uniform + 3.813 + 0.085 + 45%
 ES40: CIFAR100_Uniform + 3.813 + 0.085 + 49%
 ![CIFAR100_RQ4](https://github.com/MIBench/MIBench.github.io/assets/124696836/51c502c9-9134-4140-a0a2-0ecd5bc86629)
 
-
 (2) CIFAR10:
 
 **RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
@@ -496,24 +495,21 @@ ES40: CIFAR100_Uniform + 3.813 + 0.085 + 49%
 ES13: CIFAR10_Normal + 2.501 + 0.213 + 20%                       
 ES41: CIFAR10_Uniform + 2.501 + 0.213 + 20%                       
 ES69: CIFAR10_Bernoulli + 2.501 + 0.213 + 20%
-![CIFAR10_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/219933681-e0ab7da6-63e6-4d77-90c8-8bfa4e69c67c.png)
- 
+<img width="2144" alt="CIFAR10_RQ1" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/bc622880-a0ae-45e9-91cc-557164919c9f">
 
 **RQ2: Effect of Distance between data samples of the Target Dataset**
 
 ES02: CIFAR10_Normal + 1.908 + 0.155 + 40%                       
 ES10: CIFAR10_Normal + 2.501 + 0.155 + 40%                       
 ES22: CIFAR10_Normal + 3.472 + 0.155 + 40%
-![CIFAR10_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/219933690-c9b04621-9d44-43c5-8dbe-3e6474dcd781.png)
-
+<img width="2144" alt="CIFAR10_RQ2" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/8b8fc162-890e-4e41-b2c0-8a0d5e3367fc">
 
 **RQ3: Effect of Differential Distances between two datasets**
 
 ES51: CIFAR10_Uniform + 3.472 + 0.155 + 45%                       
 ES53: CIFAR10_Uniform + 3.472 + 0.213 + 45%                        
 ES55: CIFAR10_Uniform + 3.472 + 0.291 + 45%
-![CIFAR10_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/219933691-86b1ae51-f4b4-4c96-8428-fa8c1e83b5fd.png)
-
+<img width="2144" alt="CIFAR10_RQ3" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/d13defe4-e623-4f52-b369-5d094b0e512d">
 
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
 
@@ -521,8 +517,7 @@ ES57: CIFAR10_Bernoulli + 1.908 +0.155 + 20%
 ES58: CIFAR10_Bernoulli + 1.908 + 0.155 + 40%                       
 ES59: CIFAR10_Bernoulli + 1.908 + 0.155 + 45%                       
 ES60: CIFAR10_Bernoulli + 1.908 + 0.155 + 49%
-![CIFAR10_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/219933699-f10df496-f69b-47a2-8fa8-d31f4c0a2cfb.png)
-   
+![CIFAR10_RQ4](https://github.com/MIBench/MIBench.github.io/assets/124696836/8bca97cb-3668-4a0f-9954-c3e1954421c7)
 
 (3) CH_MNIST:
 
