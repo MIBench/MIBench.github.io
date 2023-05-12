@@ -526,25 +526,21 @@ ES60: CIFAR10_Bernoulli + 1.908 + 0.155 + 49%
 ES21: CH_MNIST_Normal + 1.720 +0.083 + 20%                       
 ES49 : CH_MNIST_Uniform + 1.720 +0.083 + 20%                       
 ES77: CH_MNIST_Bernoulli + 1.720 +0.083 + 20%
-![CH_MNIST_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220026897-2b7bc960-dfeb-4eee-bbe4-4d1c995aa7b8.png)
-
+<img width="2168" alt="CH_MNIST_RQ1" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/3ebffda4-1854-4a03-98fa-6f7cd5152fca">
 
 **RQ2: Effect of Distance between data samples of the Target Dataset**
 
 ES04: CH_MNIST_Uniform + 0.954 + 0.108 + 40%                       
 ES14: CH_MNIST_Uniform + 1.355 + 0.108 + 40%                       
 ES24: CH_MNIST_Uniform + 1.720 + 0.108 + 40%
-![CH_MNIST_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220026979-f6893d18-4fb7-4cbb-b1dc-7e33fe4b5fa0.png)
-
+<img width="2168" alt="CH_MNIST_RQ2" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/6222b0ea-39f7-4e26-9f45-cf581d030ce5">
 
 **RQ3: Effect of Differential Distances between two datasets**
 
 ES03: CH_MNIST_Normal + 0.954 + 0.083 + 45%                                              
 ES05: CH_MNIST_Normal + 0.954 + 0.108 + 45%                                              
 ES07: CH_MNIST_Normal + 0.954 + 0.133 + 45%
-![CH_MNIST_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220027031-de965164-7907-4ff6-8f4d-78dbdbc0409e.png)
-          
-
+<img width="2168" alt="CH_MNIST_RQ3" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/f809c884-cb44-4d82-a592-d09ef4cbfda3">
 
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
 
@@ -552,7 +548,8 @@ ES73: CH_MNIST_Bernoulli + 1.355 + 0.133 + 20%
 ES74: CH_MNIST_Bernoulli + 1.355 + 0.133 + 40%                                              
 ES75: CH_MNIST_Bernoulli + 1.355 + 0.133 + 45%                                              
 ES76: CH_MNIST_Bernoulli + 1.355 + 0.133 + 49%
-![CH_MNIST_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220027085-3a6964e6-edb5-4d55-b919-1a909f3c300c.png)
+![CH_MNIST_RQ4](https://github.com/MIBench/MIBench.github.io/assets/124696836/0297774d-4fb5-465d-9e90-b3d443ae5df6)
+
 
 (4) ImageNet:
 
