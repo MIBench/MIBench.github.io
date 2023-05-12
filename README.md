@@ -626,21 +626,21 @@ ES76: Location30_Bernoulli + 0.724 + 0.094 + 16%
 ES01: Purchase100_Normal + 0.550 + 0.087 + 2%                       
 ES29: Purchase100_Uniform + 0.550 + 0.087 + 2%                       
 ES57: Purchase100_Bernoulli + 0.550 + 0.087 + 2%
-![Purchase100_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220282330-bde5d136-3dea-4ef6-9f08-833e58816532.png)
+<img width="2167" alt="Purchase100_RQ1" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/416b4fee-2aae-42a9-9a95-d2896c27527c">
 
 **RQ2: Effect of Distance between data samples of the Target Dataset**
 
 ES04: Purchase100_Normal + 0.550 + 0.110 + 4%                       
 ES14: Purchase100_Normal + 0.625 + 0.110 + 4%                       
 ES24: Purchase100_Normal + 0.729 + 0.110 + 4%
-![Purchase100_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220282362-9ae055f3-8e3a-4741-9781-683199aa5618.png)
+<img width="2167" alt="Purchase100_RQ2" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/878c72a0-25ef-4ad6-ac88-50eba804899e">
 
 **RQ3: Effect of Differential Distances between two datasets**
 
 ES51: Purchase100_Uniform + 0.729 + 0.087 + 10%                       
 ES53: Purchase100_Uniform + 0.729 + 0.110 + 10%                       
 ES55: Purchase100_Uniform + 0.729 + 0.156 + 10%
-![Purchase100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220282410-f5573edf-cb65-4a37-8d75-351488c676c2.png)
+<img width="2167" alt="Purchase100_RQ3" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/99c0c212-2543-49f8-a6f5-adba8ee67deb">
 
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
 
@@ -648,7 +648,7 @@ ES65: Purchase100_Bernoulli + 0.625 + 0.087 + 2%
 ES66: Purchase100_Bernoulli + 0.625 + 0.087 + 4%                       
 ES67: Purchase100_Bernoulli + 0.625 + 0.087 + 10%                       
 ES68: Purchase100_Bernoulli + 0.625 + 0.087 + 12%
-![Purchase100_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220282466-ee7ce129-b8e6-4705-9f52-cbe361e5a199.png)
+![Purchase100_RQ4](https://github.com/MIBench/MIBench.github.io/assets/124696836/7439772d-8c5f-4a9b-af29-d08cec2d30dd)
 
 (7) Texas100:
 
