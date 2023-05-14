@@ -101,7 +101,7 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
 
 **Results**:
 
-   The results section consists of two parts: the results of 84 evaluation scenarios (ES) and the results of 4 research questions (RQ). And in each part, we identify the evaluation results of 15 state-of-the-art MI attacks by ten evaluation metrics (e.g., attacker-side accuracy, precision, recall, f1-score, FPR, FNR, MA, AUC, TPR @ fixed (low) FPR (T@0.01%F and T@0.1%F), threshold at maximum MA).
+   The results section consists of three parts: the results of 84 evaluation scenarios (ES), the thresholds at maximum MA of the Risk score and Shapley values attacks and the results of 4 research questions (RQ). And in each part, we identify the evaluation results of 15 state-of-the-art MI attacks by ten evaluation metrics (e.g., attacker-side accuracy, precision, recall, f1-score, FPR, FNR, MA, AUC, TPR @ fixed (low) FPR (T@0.01%F and T@0.1%F), threshold at maximum MA).
    
    * Part I: The Results of 84 Evaluation Scenarios
 
