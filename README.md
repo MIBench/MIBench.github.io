@@ -480,8 +480,29 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
   
   **2. Shapley values attacks**: 
 
-   **(1) CIFAR100**:
-  
+   **(1) CIFAR100**: 
+   <img width="2179" alt="CIFAR100_Shapley values_不同类别_阈值_01" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/637f1940-6bfe-4de7-85fd-8e0dca2c5e3e">
+
+   **(2) CIFAR10**:
+     <img width="2179" alt="CIFAR10_Shapley values_不同类别_阈值_02" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/c7319c78-6897-4304-adce-989f701cbb47">
+     <img width="2179" alt="CIFAR10_Shapley values_不同类别_阈值_03" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/65f3bd5a-6797-406c-ac17-c46eb044f64f">
+
+   **(3) CH_MNIST**:
+   <img width="2179" alt="CH_MNST_Shapley values_不同类别_阈值_04" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/fa1c5caa-bf38-485e-b890-f2d6d53e57f0">
+   <img width="2179" alt="CH_MNST_Shapley values_不同类别_阈值_05" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/d09afce2-358b-4ce2-a274-223e37dcd3b0">
+
+   **(4) ImageNet**: 
+   <img width="2179" alt="ImageNet_Shapley values_不同类别_阈值_06" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/7f8acbed-dbc7-41fa-beee-71fae1df1582">
+
+   **(5) Location30**:
+   <img width="2179" alt="Location30_Shapley values_不同类别_阈值_07" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/3624de18-c8e7-45ca-84c3-84ab26644c91">
+
+   **(6) Purchase100**:
+   ![Purchase100_Shapley values_不同类别_阈值_08](https://github.com/MIBench/MIBench.github.io/assets/124696836/8362b639-b135-44ab-9120-316ffc11e244)
+
+   **(7) Texas100**:
+  ![Texas100_Shapley values_不同类别_阈值_09](https://github.com/MIBench/MIBench.github.io/assets/124696836/5f496c0b-81e7-4a7f-9cd7-4563b8202db7)
+
    * Part III: The Results of 4 Research Questions
    
 **(1) CIFAR100**:
