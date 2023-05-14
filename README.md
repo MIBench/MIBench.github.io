@@ -461,7 +461,12 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
 
    **(1) CIFAR100**:
    <img width="2179" alt="CIFAR100_Risk score_不同类别_阈值_01" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/65d7709c-311c-464b-8d53-65a09ef3068a">
-
+  **(2) CH_MNIST**:
+  **(3) ImageNet**:
+  **(4) Location30**:
+  **(5) Purchase100**:
+  **(6) Texas100**:
+  
    * Part III: The Results of 4 Research Questions
    
 **(1) CIFAR100**:
