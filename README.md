@@ -582,30 +582,28 @@ ES15: ImageNet_Normal + 1.130 + 0.080 + 45%
 ES16: ImageNet_Normal + 1.130 + 0.080 + 49%
 ![ImageNet_RQ4](https://github.com/MIBench/MIBench.github.io/assets/124696836/22ab6a75-6dba-4c04-8c7d-ef4d7a7f4bf4)
 
-(5) Location30:
+**(5) Location30**:
 
 **RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
 
 ES01: Location30_Normal + 0.570 + 0.041 + 4%                       
 ES29: Location30_Uniform + 0.570 + 0.041 + 4%                       
 ES57: Location30_Bernoulli + 0.570 + 0.041 + 4%
-![Location30_RQ1 RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220057919-b581ec9e-80cd-4a0a-8efd-021c78c5515b.png)
- 
-
+<img width="2171" alt="Location30_RQ1" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/b48a6b8b-b231-43f9-8b10-40b8071eacbd">
 
 **RQ2: Effect of Distance between data samples of the Target Dataset**
 
 ES32: Location30_Uniform + 0.57 + 0.076 + 8%                       
 ES42: Location30_Uniform + 0.724 + 0.076 + 8%                       
 ES52: Location30_Uniform + 0.801 + 0.076 + 8%
-![Location30_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220057949-2f0389c7-738e-4ad2-ae44-56c388d20a9f.png)
+<img width="2171" alt="Location30_RQ2" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/fcc1c793-89b1-4ca4-a75b-26eacba540ef">
 
 **RQ3: Effect of Differential Distances between two datasets**
 
 ES23: Location30_Normal + 0.801 + 0.041 + 12%                       
 ES25: Location30_Normal + 0.801 + 0.076 + 12%                       
 ES27: Location30_Normal + 0.801 + 0.094 + 12%
-![Location30_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220058019-2694ad4a-f661-4e9a-8fea-ef5f7bba054a.png)
+<img width="2171" alt="Location30_RQ3" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/6ee00849-b39c-4a69-9c7a-2d54ae7495ac">
          
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
 
@@ -613,10 +611,9 @@ ES73: Location30_Bernoulli + 0.724 + 0.094 + 4%
 ES74: Location30_Bernoulli + 0.724 + 0.094 + 8%                       
 ES75: Location30_Bernoulli + 0.724 + 0.094 + 12%                       
 ES76: Location30_Bernoulli + 0.724 + 0.094 + 16%
-![Location30_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220058062-812b8d3e-0cb1-425b-a94f-6896b3c98e8b.png)
+![Location30_RQ4](https://github.com/MIBench/MIBench.github.io/assets/124696836/edd058e2-c6d8-43fc-9a7a-2938c5f6c4b9)
 
-
-(6) Purchase100:
+**(6) Purchase100**:
 
 **RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
 
