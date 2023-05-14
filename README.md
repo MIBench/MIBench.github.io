@@ -488,7 +488,7 @@ ES39: CIFAR100_Uniform + 3.813 + 0.085 + 45%
 ES40: CIFAR100_Uniform + 3.813 + 0.085 + 49%
 ![CIFAR100_RQ4](https://github.com/MIBench/MIBench.github.io/assets/124696836/51c502c9-9134-4140-a0a2-0ecd5bc86629)
 
-(2) CIFAR10:
+**(2) CIFAR10**:
 
 **RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
 
@@ -519,7 +519,7 @@ ES59: CIFAR10_Bernoulli + 1.908 + 0.155 + 45%
 ES60: CIFAR10_Bernoulli + 1.908 + 0.155 + 49%
 ![CIFAR10_RQ4](https://github.com/MIBench/MIBench.github.io/assets/124696836/8bca97cb-3668-4a0f-9954-c3e1954421c7)
 
-(3) CH_MNIST:
+**(3) CH_MNIST**:
 
 **RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
 
@@ -551,30 +551,28 @@ ES76: CH_MNIST_Bernoulli + 1.355 + 0.133 + 49%
 ![CH_MNIST_RQ4](https://github.com/MIBench/MIBench.github.io/assets/124696836/0297774d-4fb5-465d-9e90-b3d443ae5df6)
 
 
-(4) ImageNet:
+**(4) ImageNet**:
 
 **RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
 
 ES02: ImageNet_Normal + 0.934 + 0.046 + 40%                                              
 ES30: ImageNet_Uniform + 0.934 + 0.046 + 40%                                              
 ES58: ImageNet_Bernoulli + 0.934 + 0.046 + 40%
-![ImageNet_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220027209-2ac37e6d-4068-4055-a7db-ca5c35de9201.png)
-
+<img width="2237" alt="ImageNet_RQ1" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/7430c293-94d1-4a24-805a-205be06b0239">
 
 **RQ2: Effect of Distance between data samples of the Target Dataset**
 
 ES34: ImageNet_Uniform + 0.934 + 0.08 + 49%                                               
 ES44: ImageNet_Uniform + 1.130 + 0.08 + 49%                                              
 ES54: ImageNet_Uniform + 1.388 + 0.08 + 49%
-![ImageNet_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220027299-2748512f-2418-4a75-969f-422d39ee38d4.png)
-
+<img width="2237" alt="ImageNet_RQ2" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/c9fdf48b-c4f1-4cce-8de6-6b4b8d88b9b6">
 
 **RQ3: Effect of Differential Distances between two datasets**
 
 ES79: ImageNet_Bernoulli + 1.388 + 0.046 + 45%                                               
 ES81: ImageNet_Bernoulli + 1.388 + 0.080 + 45%                                              
 ES83: ImageNet_Bernoulli + 1.388 + 0.145 + 45%
-![ImageNet_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220027343-97532c83-2c71-4992-b3f8-dd9fc1789ba7.png)
+<img width="2237" alt="ImageNet_RQ3" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/1a87713f-7463-4274-ac43-2b5c73b087f4">
 
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
 
@@ -582,8 +580,7 @@ ES13: ImageNet_Normal + 1.130 + 0.080 + 20%
 ES14: ImageNet_Normal + 1.130 + 0.080 + 40%                       
 ES15: ImageNet_Normal + 1.130 + 0.080 + 45%                       
 ES16: ImageNet_Normal + 1.130 + 0.080 + 49%
-![ImageNet_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220027421-19592d0a-beea-4dba-9eb8-45009c09dc1d.png)
-
+![ImageNet_RQ4](https://github.com/MIBench/MIBench.github.io/assets/124696836/22ab6a75-6dba-4c04-8c7d-ef4d7a7f4bf4)
 
 (5) Location30:
 
