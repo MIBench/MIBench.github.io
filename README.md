@@ -461,11 +461,26 @@ the Curve (AUC) of attack Receiver Operating Characteristic (ROC) curve, TPR @ f
 
    **(1) CIFAR100**:
    <img width="2179" alt="CIFAR100_Risk score_不同类别_阈值_01" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/65d7709c-311c-464b-8d53-65a09ef3068a">
+   
   **(2) CH_MNIST**:
+  <img width="2179" alt="CH_MNST_Risk score_不同类别_阈值_02" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/2c55dd65-b7f8-4907-918b-83dbbc02d881">
+<img width="2179" alt="CH_MNST_Risk score_不同类别_阈值_03" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/4e74a126-a298-49e0-9db5-4c905e611a2e">
+
   **(3) ImageNet**:
+  <img width="2179" alt="ImageNet_Risk score_不同类别_阈值_04" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/47e6809a-5617-4d8e-a0bb-837ec4cb845d">
+  
   **(4) Location30**:
+  <img width="2179" alt="Location30_Risk score_不同类别_阈值_05" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/d921b4b8-48e4-4d5e-b333-62f9a9518a48">
+  
   **(5) Purchase100**:
+  <img width="2179" alt="Purchase100_Risk score_不同类别_阈值_06" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/3f31521f-b9dc-46f2-8f85-a7886191ec3b">
+  
   **(6) Texas100**:
+  <img width="2179" alt="Texas100_Risk score_不同类别_阈值_07" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/1a56bf14-c882-4222-a5ff-96f3fe23570e">
+  
+  **2. Shapley values attacks**: 
+
+   **(1) CIFAR100**:
   
    * Part III: The Results of 4 Research Questions
    
