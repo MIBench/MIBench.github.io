@@ -651,22 +651,21 @@ ES68: Purchase100_Bernoulli + 0.625 + 0.087 + 12%
 ES01: Texas100_Normal + 0.530 + 0.038 + 2%                       
 ES29: Texas100_Uniform + 0.530 + 0.038 + 2%                       
 ES57: Texas100_Bernoulli + 0.530 + 0.038 + 2%
-![Texas100_RQ1 Effect of data Distributions](https://user-images.githubusercontent.com/124696836/220282556-caaea300-e406-4a46-bbb6-2eae9905fa23.png)
+<img width="2179" alt="Texas100_RQ1" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/57e8bd9c-a6db-4343-bf43-9ea12387fe08">
 
 **RQ2: Effect of Distance between data samples of the Target Dataset**
 
 ES02: Texas100_Normal + 0.530 + 0.038 + 4%                       
 ES10: Texas100_Normal + 0.641 + 0.038 + 4%                       
 ES22: Texas100_Normal + 0.734 + 0.038 + 4%
-![Texas100_RQ2 Effect of Distance between members and nonmembers](https://user-images.githubusercontent.com/124696836/220282619-c9f17da0-758c-4586-a8fa-7a2edba53f5d.png)
+<img width="2179" alt="Texas100_RQ2" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/fbd31f91-9d32-4cf7-8dba-ab0431adbf0d">
                 
-
 **RQ3: Effect of Differential Distances between two datasets**
 
 ES51: Texas100_Uniform + 0.734 + 0.038 + 10%                       
 ES53: Texas100_Uniform + 0.734 + 0.073 + 10%                       
 ES55: Texas100_Uniform + 0.734 + 0.107 + 10%
-![Texas100_RQ3 Effect of Differential Distances between two datasets](https://user-images.githubusercontent.com/124696836/220282636-4da0db4a-5f2f-47c0-910c-a84b9619c703.png)
+<img width="2179" alt="Texas100_RQ3" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/768ea1e8-9f38-444e-93b3-97df0efedf3a">
 
 **RQ4: Effect of the Ratios of the samples that are made no inferences by an MI attack**
 
@@ -674,7 +673,7 @@ ES65: Texas100_Bernoulli + 0.641 + 0.038 + 2%
 ES66: Texas100_Bernoulli + 0.641 + 0.038 + 4%                       
 ES67: Texas100_Bernoulli + 0.641 + 0.038 + 10%                       
 ES68: Texas100_Bernoulli + 0.641 + 0.038 + 12%
-![Texas100_RQ4 Effect of the Ratios of the samples that are made no inferences by an MI attack](https://user-images.githubusercontent.com/124696836/220282670-119c413a-6803-422e-9391-45eb2031d166.png)
+![Texas100_RQ4](https://github.com/MIBench/MIBench.github.io/assets/124696836/10b5600b-b37a-499f-af41-ed8085a93354)
 
 
 
