@@ -644,7 +644,7 @@ ES67: Purchase100_Bernoulli + 0.625 + 0.087 + 10%
 ES68: Purchase100_Bernoulli + 0.625 + 0.087 + 12%
 ![Purchase100_RQ4](https://github.com/MIBench/MIBench.github.io/assets/124696836/7439772d-8c5f-4a9b-af29-d08cec2d30dd)
 
-(7) Texas100:
+**(7) Texas100**:
 
 **RQ1: Effect of Distance Distribution of Data Damples in the Target Dataset**
 
