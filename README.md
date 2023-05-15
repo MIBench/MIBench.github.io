@@ -560,6 +560,14 @@ ES10: CIFAR10_Normal + 2.501 + 0.155 + 40%
 ES22: CIFAR10_Normal + 3.472 + 0.155 + 40%
 <img width="2144" alt="CIFAR10_RQ2" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/8b8fc162-890e-4e41-b2c0-8a0d5e3367fc">
 
+<table>
+	<tr>
+		<td><center><img src=https://github.com/MIBench/MIBench.github.io/assets/124696836/9a496dbd-9dc8-4109-9a4e-058a4d4aa746 />CIFAR10_N_1 908_d1_40%</center></td>
+		<td><center><img src=https://github.com/MIBench/MIBench.github.io/assets/124696836/efba0d0e-e962-4672-a115-5adb5a8aa776 />CIFAR10_N_2 501_d1_40%</center></td>
+		<td><center><img src=https://github.com/MIBench/MIBench.github.io/assets/124696836/44758fa8-79a3-4509-8eab-f2ee1b9df295 />CIFAR10_N_3 472_d1_40%</center></td>
+        </tr>
+</table>
+
 **RQ3: Effect of Differential Distances between two datasets**
 
 ES51: CIFAR10_Uniform + 3.472 + 0.155 + 45%                       
