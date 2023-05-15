@@ -515,16 +515,11 @@ ES57: CIFAR100_Bernoulli + 2.893 +0.085 + 20%
 <img width="2156" alt="CIFAR100_RQ1" src="https://github.com/MIBench/MIBench.github.io/assets/124696836/3315f074-1c63-4eb3-97db-501ca6ee6a28">
 <center>
 	<img src=https://github.com/MIBench/MIBench.github.io/assets/124696836/8f22d996-4ae1-4d1c-9bcb-45c6afbed023.png"width=20%" />
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
         <img src=https://github.com/MIBench/MIBench.github.io/assets/124696836/01e45d8e-f8a7-46a1-a158-63c84b463214.png"with=20%" />
         <img src=https://github.com/MIBench/MIBench.github.io/assets/124696836/b24f7fd9-e18d-4e88-aa7e-17322c0c8f25.png"width=20%" />
 	<br/>
 	<font color="AAAAAA"> CIFAR100_N_2 893_d1_20% </font>
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 	<font color="AAAAAA"> CIFAR100_U_2 893_d1_20% </font>
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 	<font color="AAAAAA"> CIFAR100_B_2 893_d1_20% </font>
 </center>
 </br>
